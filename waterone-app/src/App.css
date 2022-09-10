@@ -1,9 +1,33 @@
-.App{
-  background-color: #4564b1;
+/* .app{
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
+} */
+
+.app-bg{
+  position: fixed;
+  left: 0;
+  right: 0;
+  display: block;
+  min-height: 100vh;
+  background-color: #4564b1;
+  background-image: url('./water.jpg');
+  background-size: cover;
+  z-index: 1;
+  filter: brightness(30%);
+}
+
+.app-content{
+  /* background-color: #4564b1; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 9999;
 }
 
 .header{
@@ -27,7 +51,7 @@
   flex-direction: column;
   gap: 2vh;
   color:aliceblue;
-  text-align: center;
+  /* text-align: center; */
   min-width: 50vw;
   height: 50vh;
   align-items: center;
@@ -45,7 +69,7 @@
 }
 
 button {
-  background-color: #cfdcff;
+  background-color: #cfdcffbf;
   cursor: pointer;
   border: 0;
   border-radius: 5px;
@@ -60,7 +84,7 @@ button:hover {
 }
 
 button:active {
-  background-color: #94ace9;
+  background-color: #94ace9ac;
 }
 
 form {
@@ -76,14 +100,32 @@ label {
 select {
   border-radius: 5px;
   height: 3vh;
-  background-color: #7692d6;
+  background-color: #9db2e7ae;
   border-width: 0px;
 }
 
 select:hover {
-  background-color: #cfdcff;
+  background-color: #cfdcffbf;
 }
 
 select:focus {
   outline: 0;
+}
+
+input {
+  background-color:#9db2e7ae;
+  border: 0;
+  border-radius: 5px;
+  /* height: 2.65vh; */
+  height: 2vh;
+  padding: 5px;
+}
+
+input:hover {
+  background-color: #cfdcffbf;
+}
+
+input:focus {
+  outline: 0;
+  background-color: #cfdcff;
 }

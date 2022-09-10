@@ -4,7 +4,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* justify-content: center; */
 }
 
 .header{
@@ -25,15 +24,56 @@
 
 .body{
   display: flex;
+  flex-direction: column;
+  gap: 2vh;
   color:aliceblue;
-  /* background-color: black; */
   text-align: center;
   min-width: 50vw;
   height: 50vh;
-  /* align-items: center; */
-  justify-content: center;
+  align-items: center;
 }
 
-.App-link {
+.link {
   color: #61dafb;
+}
+
+.form-body {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 30px;
+  align-items: center;
+}
+
+button {
+  background-color: #cfdcff;
+  cursor: pointer;
+  border: 0;
+  border-radius: 5px;
+  min-width: 100px;
+  font-weight: 600;
+  color:#4564b1;
+  padding: 20px;
+}
+
+button:hover {
+  background-color: #e1e9ff;
+}
+
+button:active {
+  background-color: #94ace9;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  text-align: left;
+}
+
+select {
+  border-radius: 5px;
+  height: 3vh;
 }

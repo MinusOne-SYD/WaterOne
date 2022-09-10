@@ -12,7 +12,28 @@ function App() {
         </div>
       </div>
       <div className="body">
-        ASDF
+        <form>
+          <div className="form-body">
+            <label for="states">State</label>
+            <select id="states">
+              <option>New South Wales</option>
+              <option>Tasmania</option>
+              <option>Victoria</option>
+              <option>Western Australia</option>
+              <option>South Australia</option>
+              <option>Queensland</option>
+            </select>
+            </div>
+            <div className="form-body">
+            <label>Type</label>
+            <select id="Type">
+              <option>A</option>
+              <option>B</option>
+              <option>C</option>
+            </select>
+          </div>
+        </form>
+        <button>LOCATE</button>
       </div>
     </div>
   );

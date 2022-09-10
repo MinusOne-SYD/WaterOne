@@ -1,0 +1,39 @@
+.App{
+  background-color: #4564b1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.header{
+  text-align: right;
+  padding: calc(10px + 2vmin);
+}
+
+.title{
+  font-size: calc(50px + 2vmin);
+  font-weight: 900;
+  color: rgb(175, 227, 249);
+}
+
+.subtitle{
+  color:rgb(199, 229, 255);
+  font-weight: 200;
+}
+
+.body{
+  display: flex;
+  color:aliceblue;
+  /* background-color: black; */
+  text-align: center;
+  min-width: 50vw;
+  height: 50vh;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}

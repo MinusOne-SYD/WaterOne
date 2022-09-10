@@ -21,11 +21,11 @@ function App() {
   const [state, setState] = React.useState(stateOptions[0].value);
   const [type, setType] = React.useState(typeOptions[0].value);
 
-  const handleState = event => {
+  const handleStateChange = event => {
     setState(event.target.value);
   };
 
-  const handleType = event => {
+  const handleTypeChange = event => {
     setType(event.target.value);
   };
 
@@ -43,7 +43,7 @@ function App() {
         <form>
           <div className="form-body">
             <label for="states">State</label>
-            <select id="states" value={state} onChange={handleState}>
+            <select id="states" value={state} onChange={handleStateChange}>
               {stateOptions.map(stateOptions => (
                 <option>
                   {stateOptions.text}
@@ -53,7 +53,7 @@ function App() {
             </div>
             <div className="form-body">
             <label for="types">Type</label>
-            <select id="types" value={type} onChange={handleType}>
+            <select id="types" value={type} onChange={handleTypeChange}>
               {typeOptions.map(typeOptions => (
                 <option>
                   {typeOptions.text}

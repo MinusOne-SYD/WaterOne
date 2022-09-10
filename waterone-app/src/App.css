@@ -76,4 +76,14 @@ label {
 select {
   border-radius: 5px;
   height: 3vh;
+  background-color: #7692d6;
+  border-width: 0px;
+}
+
+select:hover {
+  background-color: #cfdcff;
+}
+
+select:focus {
+  outline: 0;
 }

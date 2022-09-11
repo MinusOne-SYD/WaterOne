@@ -7,7 +7,7 @@ function App() {
   const [lake, setLake] = React.useState('');
   const [country, setCountry] = React.useState('');
   const [lakeType, setLakeType] = React.useState('rainfall');
-  const [lakeQuality, setLakeQuality] = React.useState('low');
+  const [lakeQuality, setLakeQuality] = React.useState('high');
 
   const waterType = [
     {value: 'rainfall', text: 'Rainfall'},
@@ -71,7 +71,7 @@ function App() {
       for (var i = 0; i < mappedData.length; i++) {
       var dist_calc = getDistance(mappedData[i]['latitude'], mappedData[i]['longitude'],
         data[0].latitude, data[0].longitude)
-          if (dist_calc < distance && mappedData[i]['type'] == lakeType && mappedData[i]['quality' == lakeQuality]) {
+          if (dist_calc < distance && mappedData[i]['type'] == lakeType && mappedData[i]['quality'] == lakeQuality) {
               distance = dist_calc;
               reserve_name = mappedData[i].lake_name;
               reserve_country = mappedData[i].country;

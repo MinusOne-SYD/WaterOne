@@ -4,1441 +4,1441 @@
    "id_No": 1,
    "lake_name": "Aksayqin",
    "source": "hydroweb",
-   "metadata": {"basin": "Tarim", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-22 17:39", "latitude": 35.2, "lake_name": "Aksayqin", "longitude": 79.85, "identifier": "L_aksayqin", "start_date": "2002-10-28 18:14"}
+   "metadata": {"basin": "Tarim", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-22 17:39", "latitude": 35.2, "lake_name": "Aksayqin", "longitude": 79.85, "identifier": "L_aksayqin", "start_date": "2002-10-28 18:14", "type": "rainfall", "quality": "high"}
  },
  {
    "FIELD1": 1,
    "id_No": 2,
    "lake_name": "Alakol",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Kazakhstan", "end_date": "2020-10-06 15:56", "latitude": 46.12, "lake_name": "Alakol", "longitude": 81.75, "identifier": "L_alakol", "start_date": "2013-04-13 06:06"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Kazakhstan", "end_date": "2020-10-06 15:56", "latitude": 46.12, "lake_name": "Alakol", "longitude": 81.75, "identifier": "L_alakol", "start_date": "2013-04-13 06:06", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 2,
    "id_No": 3,
    "lake_name": "Albert",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "research", "country": "Congo&Uganda", "end_date": "2020-03-26 18:56", "latitude": 1.67, "lake_name": "Albert", "longitude": 30.92, "identifier": "L_albert", "start_date": "1995-06-05 01:14"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "research", "country": "Congo&Uganda", "end_date": "2020-03-26 18:56", "latitude": 1.67, "lake_name": "Albert", "longitude": 30.92, "identifier": "L_albert", "start_date": "1995-06-05 01:14", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 3,
    "id_No": 4,
    "lake_name": "Amadjuak",
    "source": "hydroweb",
-   "metadata": {"basin": "Hudsonbay", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-01 20:51", "latitude": 64.92, "lake_name": "Amadjuak", "longitude": -71.1, "identifier": "L_amadjuak", "start_date": "1992-09-26 00:14"}
+   "metadata": {"basin": "Hudsonbay", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-01 20:51", "latitude": 64.92, "lake_name": "Amadjuak", "longitude": -71.1, "identifier": "L_amadjuak", "start_date": "1992-09-26 00:14", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 4,
    "id_No": 5,
    "lake_name": "Angostura",
    "source": "hydroweb",
-   "metadata": {"basin": "Grisalva", "source": "hydroweb", "status": "research", "country": "Mexico", "end_date": "2010-09-24 10:48", "latitude": 16.08, "lake_name": "Angostura", "longitude": -92.5, "identifier": "L_angostura", "start_date": "2002-10-12 16:47"}
+   "metadata": {"basin": "Grisalva", "source": "hydroweb", "status": "research", "country": "Mexico", "end_date": "2010-09-24 10:48", "latitude": 16.08, "lake_name": "Angostura", "longitude": -92.5, "identifier": "L_angostura", "start_date": "2002-10-12 16:47", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 5,
    "id_No": 6,
    "lake_name": "Aral_est",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kasakhstan&Uzbekistan", "end_date": "2020-03-18 15:15", "latitude": 45.0, "lake_name": "Aral_est", "longitude": 60.0, "identifier": "L_aral_est", "start_date": "2010-05-13 20:45"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kasakhstan&Uzbekistan", "end_date": "2020-03-18 15:15", "latitude": 45.0, "lake_name": "Aral_est", "longitude": 60.0, "identifier": "L_aral_est", "start_date": "2010-05-13 20:45", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 6,
    "id_No": 7,
    "lake_name": "Aral_nord",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kazakstan", "end_date": "2020-04-09 04:48", "latitude": 46.4, "lake_name": "Aral_nord", "longitude": 60.8, "identifier": "L_aral_nord", "start_date": "1992-10-02 14:48"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kazakstan", "end_date": "2020-04-09 04:48", "latitude": 46.4, "lake_name": "Aral_nord", "longitude": 60.8, "identifier": "L_aral_nord", "start_date": "1992-10-02 14:48", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 7,
    "id_No": 8,
    "lake_name": "Aral_ouest",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kasakhstan&Uzbekistan", "end_date": "2020-02-14 12:15", "latitude": 45.0, "lake_name": "Aral_ouest", "longitude": 58.5, "identifier": "L_aral_ouest", "start_date": "2010-01-14 03:27"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kasakhstan&Uzbekistan", "end_date": "2020-02-14 12:15", "latitude": 45.0, "lake_name": "Aral_ouest", "longitude": 58.5, "identifier": "L_aral_ouest", "start_date": "2010-01-14 03:27", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 8,
    "id_No": 9,
    "lake_name": "Aral_sud",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kazakstan&Uzbekistan", "end_date": "2009-12-26 12:35", "latitude": 46.3, "lake_name": "Aral_sud", "longitude": 59.0, "identifier": "L_aral_sud", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kazakstan&Uzbekistan", "end_date": "2009-12-26 12:35", "latitude": 46.3, "lake_name": "Aral_sud", "longitude": 59.0, "identifier": "L_aral_sud", "start_date": "1992-09-28 04:56", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 9,
    "id_No": 10,
    "lake_name": "Arapa",
    "source": "hydroweb",
-   "metadata": {"basin": "Desaguadero", "source": "hydroweb", "status": "research", "country": "Peru", "end_date": "2020-04-03 05:31", "latitude": -15.16, "lake_name": "Arapa", "longitude": -70.02, "identifier": "L_arapa", "start_date": "2016-03-09 23:36"}
+   "metadata": {"basin": "Desaguadero", "source": "hydroweb", "status": "research", "country": "Peru", "end_date": "2020-04-03 05:31", "latitude": -15.16, "lake_name": "Arapa", "longitude": -70.02, "identifier": "L_arapa", "start_date": "2016-03-09 23:36", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 10,
    "id_No": 11,
    "lake_name": "Argentino",
    "source": "hydroweb",
-   "metadata": {"basin": "Santa-Cruz", "source": "hydroweb", "status": "operational", "country": "Argentina", "end_date": "2020-10-06 10:36", "latitude": -50.33, "lake_name": "Argentino", "longitude": -72.75, "identifier": "L_argentino", "start_date": "1992-10-21 15:07"}
+   "metadata": {"basin": "Santa-Cruz", "source": "hydroweb", "status": "operational", "country": "Argentina", "end_date": "2020-10-06 10:36", "latitude": -50.33, "lake_name": "Argentino", "longitude": -72.75, "identifier": "L_argentino", "start_date": "1992-10-21 15:07", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 11,
    "id_No": 12,
    "lake_name": "Asad",
    "source": "hydroweb",
-   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "research", "country": "Syria", "end_date": "2016-05-22 01:48", "latitude": 36.0, "lake_name": "Asad", "longitude": 38.17, "identifier": "L_asad", "start_date": "2002-10-10 21:00"}
+   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "research", "country": "Syria", "end_date": "2016-05-22 01:48", "latitude": 36.0, "lake_name": "Asad", "longitude": 38.17, "identifier": "L_asad", "start_date": "2002-10-10 21:00", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 12,
    "id_No": 13,
    "lake_name": "Athabasca",
    "source": "hydroweb",
-   "metadata": {"basin": "Mackenzie River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 04:13", "latitude": 59.1, "lake_name": "Athabasca", "longitude": -110.0, "identifier": "L_athabasca", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Mackenzie River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 04:13", "latitude": 59.1, "lake_name": "Athabasca", "longitude": -110.0, "identifier": "L_athabasca", "start_date": "1992-09-27 02:35", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 13,
    "id_No": 14,
    "lake_name": "Ayakkum",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-29 15:35", "latitude": 37.54, "lake_name": "Ayakkum", "longitude": 89.4, "identifier": "L_ayakkum", "start_date": "1995-06-29 22:40"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-29 15:35", "latitude": 37.54, "lake_name": "Ayakkum", "longitude": 89.4, "identifier": "L_ayakkum", "start_date": "1995-06-29 22:40", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 14,
    "id_No": 15,
    "lake_name": "Aydarkul",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "operational", "country": "Kazakhstan&Uzbekistan", "end_date": "2020-10-02 17:00", "latitude": 40.87, "lake_name": "Aydarkul", "longitude": 67.04, "identifier": "L_aydarkul", "start_date": "1995-06-02 15:31"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "operational", "country": "Kazakhstan&Uzbekistan", "end_date": "2020-10-02 17:00", "latitude": 40.87, "lake_name": "Aydarkul", "longitude": 67.04, "identifier": "L_aydarkul", "start_date": "1995-06-02 15:31", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 15,
    "id_No": 16,
    "lake_name": "Aylmer",
    "source": "hydroweb",
-   "metadata": {"basin": "Back River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 22:40", "latitude": 64.09, "lake_name": "Aylmer", "longitude": -108.54, "identifier": "L_aylmer", "start_date": "1992-10-26 09:18"}
+   "metadata": {"basin": "Back River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 22:40", "latitude": 64.09, "lake_name": "Aylmer", "longitude": -108.54, "identifier": "L_aylmer", "start_date": "1992-10-26 09:18", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 16,
    "id_No": 17,
    "lake_name": "Bagre",
    "source": "hydroweb",
-   "metadata": {"basin": "Volta", "source": "hydroweb", "status": "operational", "country": "Burkina", "end_date": "2020-09-28 09:58", "latitude": 11.15, "lake_name": "Bagre", "longitude": 0.62, "identifier": "L_bagre", "start_date": "2008-08-21 13:46"}
+   "metadata": {"basin": "Volta", "source": "hydroweb", "status": "operational", "country": "Burkina", "end_date": "2020-09-28 09:58", "latitude": 11.15, "lake_name": "Bagre", "longitude": 0.62, "identifier": "L_bagre", "start_date": "2008-08-21 13:46", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 17,
    "id_No": 18,
    "lake_name": "Baikal",
    "source": "hydroweb",
-   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-06 14:17", "latitude": 53.58, "lake_name": "Baikal", "longitude": 108.17, "identifier": "L_baikal", "start_date": "1992-09-27 20:09"}
+   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-06 14:17", "latitude": 53.58, "lake_name": "Baikal", "longitude": 108.17, "identifier": "L_baikal", "start_date": "1992-09-27 20:09", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 18,
    "id_No": 19,
    "lake_name": "Baker",
    "source": "hydroweb",
-   "metadata": {"basin": "Thelon", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-03 17:34", "latitude": 64.0, "lake_name": "Baker", "longitude": -95.0, "identifier": "L_baker", "start_date": "1992-10-06 14:58"}
+   "metadata": {"basin": "Thelon", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-03 17:34", "latitude": 64.0, "lake_name": "Baker", "longitude": -95.0, "identifier": "L_baker", "start_date": "1992-10-06 14:58", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 19,
    "id_No": 20,
    "lake_name": "Balbina",
    "source": "hydroweb",
-   "metadata": {"basin": "Amazonas", "source": "hydroweb", "status": "operational", "country": "Brazil", "end_date": "2020-10-05 00:15", "latitude": -1.58, "lake_name": "Balbina", "longitude": -59.73, "identifier": "L_balbina", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "Amazonas", "source": "hydroweb", "status": "operational", "country": "Brazil", "end_date": "2020-10-05 00:15", "latitude": -1.58, "lake_name": "Balbina", "longitude": -59.73, "identifier": "L_balbina", "start_date": "1992-09-28 22:30", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 20,
    "id_No": 21,
    "lake_name": "Balkhash",
    "source": "hydroweb",
-   "metadata": {"basin": "Balkhash", "source": "hydroweb", "status": "operational", "country": "Kazakstan", "end_date": "2020-10-05 16:23", "latitude": 46.3, "lake_name": "Balkhash", "longitude": 74.32, "identifier": "L_balkhash", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Balkhash", "source": "hydroweb", "status": "operational", "country": "Kazakstan", "end_date": "2020-10-05 16:23", "latitude": 46.3, "lake_name": "Balkhash", "longitude": 74.32, "identifier": "L_balkhash", "start_date": "1992-09-27 02:35", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 21,
    "id_No": 22,
    "lake_name": "Bangweulu",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "research", "country": "Zambia", "end_date": "2020-03-29 19:39", "latitude": -11.17, "lake_name": "Bangweulu", "longitude": 29.81, "identifier": "L_bangweulu", "start_date": "1995-07-04 12:05"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "research", "country": "Zambia", "end_date": "2020-03-29 19:39", "latitude": -11.17, "lake_name": "Bangweulu", "longitude": 29.81, "identifier": "L_bangweulu", "start_date": "1995-07-04 12:05", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 22,
    "id_No": 23,
    "lake_name": "Bankim",
    "source": "hydroweb",
-   "metadata": {"basin": "Sanaga", "source": "hydroweb", "status": "operational", "country": "Cameroun", "end_date": "2020-10-03 07:59", "latitude": 6.1, "lake_name": "Bankim", "longitude": 11.36, "identifier": "L_bankim", "start_date": "2008-07-07 00:04"}
+   "metadata": {"basin": "Sanaga", "source": "hydroweb", "status": "operational", "country": "Cameroun", "end_date": "2020-10-03 07:59", "latitude": 6.1, "lake_name": "Bankim", "longitude": 11.36, "identifier": "L_bankim", "start_date": "2008-07-07 00:04", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 23,
    "id_No": 24,
    "lake_name": "Beloye",
    "source": "hydroweb",
-   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-20 19:39", "latitude": 60.18, "lake_name": "Beloye", "longitude": 37.63, "identifier": "L_beloye", "start_date": "2016-04-18 12:32"}
+   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-20 19:39", "latitude": 60.18, "lake_name": "Beloye", "longitude": 37.63, "identifier": "L_beloye", "start_date": "2016-04-18 12:32", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 24,
    "id_No": 25,
    "lake_name": "Beysehir",
    "source": "hydroweb",
-   "metadata": {"basin": "Beysehir", "source": "hydroweb", "status": "operational", "country": "Turkey", "end_date": "2020-09-29 08:36", "latitude": 37.78, "lake_name": "Beysehir", "longitude": 31.55, "identifier": "L_beysehir", "start_date": "1992-10-14 16:13"}
+   "metadata": {"basin": "Beysehir", "source": "hydroweb", "status": "operational", "country": "Turkey", "end_date": "2020-09-29 08:36", "latitude": 37.78, "lake_name": "Beysehir", "longitude": 31.55, "identifier": "L_beysehir", "start_date": "1992-10-14 16:13", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 25,
    "id_No": 26,
    "lake_name": "Bluenose",
    "source": "hydroweb",
-   "metadata": {"basin": "ArcticOcean", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2020-03-31 18:42", "latitude": 68.35, "lake_name": "Bluenose", "longitude": -119.7, "identifier": "L_bluenose", "start_date": "2016-03-16 23:54"}
+   "metadata": {"basin": "ArcticOcean", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2020-03-31 18:42", "latitude": 68.35, "lake_name": "Bluenose", "longitude": -119.7, "identifier": "L_bluenose", "start_date": "2016-03-16 23:54", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 26,
    "id_No": 27,
    "lake_name": "Bogoria",
    "source": "hydroweb",
-   "metadata": {"basin": "Greatriftvalley", "source": "hydroweb", "status": "operational", "country": "Kenya", "end_date": "2020-10-01 19:35", "latitude": 0.25, "lake_name": "Bogoria", "longitude": 36.1, "identifier": "L_bogoria", "start_date": "2016-03-03 23:54"}
+   "metadata": {"basin": "Greatriftvalley", "source": "hydroweb", "status": "operational", "country": "Kenya", "end_date": "2020-10-01 19:35", "latitude": 0.25, "lake_name": "Bogoria", "longitude": 36.1, "identifier": "L_bogoria", "start_date": "2016-03-03 23:54", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 27,
    "id_No": 28,
    "lake_name": "Bolon",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-30 19:11", "latitude": 48.84, "lake_name": "Bolon", "longitude": 136.38, "identifier": "L_bolon", "start_date": "2008-07-16 00:41"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-30 19:11", "latitude": 48.84, "lake_name": "Bolon", "longitude": 136.38, "identifier": "L_bolon", "start_date": "2008-07-16 00:41", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 28,
    "id_No": 29,
    "lake_name": "Bosten",
    "source": "hydroweb",
-   "metadata": {"basin": "Tarim", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-01 13:33", "latitude": 42.0, "lake_name": "Bosten", "longitude": 87.0, "identifier": "L_bosten", "start_date": "2002-10-01 18:00"}
+   "metadata": {"basin": "Tarim", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-01 13:33", "latitude": 42.0, "lake_name": "Bosten", "longitude": 87.0, "identifier": "L_bosten", "start_date": "2002-10-01 18:00", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 29,
    "id_No": 30,
    "lake_name": "Bratskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-06 14:18", "latitude": 56.11, "lake_name": "Bratskoye", "longitude": 102.11, "identifier": "L_bratskoye", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-06 14:18", "latitude": 56.11, "lake_name": "Bratskoye", "longitude": 102.11, "identifier": "L_bratskoye", "start_date": "1992-09-28 04:56", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 30,
    "id_No": 31,
    "lake_name": "Buyo",
    "source": "hydroweb",
-   "metadata": {"basin": "sassandra", "source": "hydroweb", "status": "research", "country": "Cote-Ivoire", "end_date": "2020-04-08 06:21", "latitude": 6.33, "lake_name": "Buyo", "longitude": -7.07, "identifier": "L_buyo", "start_date": "1995-06-25 01:23"}
+   "metadata": {"basin": "sassandra", "source": "hydroweb", "status": "research", "country": "Cote-Ivoire", "end_date": "2020-04-08 06:21", "latitude": 6.33, "lake_name": "Buyo", "longitude": -7.07, "identifier": "L_buyo", "start_date": "1995-06-25 01:23", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 31,
    "id_No": 32,
    "lake_name": "Cahora_bassa",
    "source": "hydroweb",
-   "metadata": {"basin": "Zambezi", "source": "hydroweb", "status": "operational", "country": "Mozambique", "end_date": "2020-10-03 05:59", "latitude": -15.68, "lake_name": "Cahora_bassa", "longitude": 31.78, "identifier": "L_cahora_bassa", "start_date": "2002-09-28 02:24"}
+   "metadata": {"basin": "Zambezi", "source": "hydroweb", "status": "operational", "country": "Mozambique", "end_date": "2020-10-03 05:59", "latitude": -15.68, "lake_name": "Cahora_bassa", "longitude": 31.78, "identifier": "L_cahora_bassa", "start_date": "2002-09-28 02:24", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 32,
    "id_No": 33,
    "lake_name": "Caniapiscau",
    "source": "hydroweb",
-   "metadata": {"basin": "Caniapiscau", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2015-01-05 23:45", "latitude": 54.52, "lake_name": "Caniapiscau", "longitude": -69.81, "identifier": "L_caniapiscau", "start_date": "2002-11-18 04:48"}
+   "metadata": {"basin": "Caniapiscau", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2015-01-05 23:45", "latitude": 54.52, "lake_name": "Caniapiscau", "longitude": -69.81, "identifier": "L_caniapiscau", "start_date": "2002-11-18 04:48", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 33,
    "id_No": 34,
    "lake_name": "Caribou",
    "source": "hydroweb",
-   "metadata": {"basin": "Churchill", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-04 18:02", "latitude": 57.62, "lake_name": "Caribou", "longitude": -102.26, "identifier": "L_caribou", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "Churchill", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-04 18:02", "latitude": 57.62, "lake_name": "Caribou", "longitude": -102.26, "identifier": "L_caribou", "start_date": "1992-09-28 04:56", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 34,
    "id_No": 35,
    "lake_name": "Caspian",
    "source": "hydroweb",
-   "metadata": {"basin": "Caspian", "source": "hydroweb", "status": "operational", "country": "Russia&Kazakstan&Turkmenistan&", "end_date": "2020-10-04 06:41", "latitude": 42.0, "lake_name": "Caspian", "longitude": 50.0, "identifier": "L_caspian", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Caspian", "source": "hydroweb", "status": "operational", "country": "Russia&Kazakstan&Turkmenistan&", "end_date": "2020-10-04 06:41", "latitude": 42.0, "lake_name": "Caspian", "longitude": 50.0, "identifier": "L_caspian", "start_date": "1992-09-27 02:35", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 35,
    "id_No": 36,
    "lake_name": "Cedar",
    "source": "hydroweb",
-   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 00:17", "latitude": 53.4, "lake_name": "Cedar", "longitude": -100.4, "identifier": "L_cedar", "start_date": "1992-10-01 03:12"}
+   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 00:17", "latitude": 53.4, "lake_name": "Cedar", "longitude": -100.4, "identifier": "L_cedar", "start_date": "1992-10-01 03:12", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 36,
    "id_No": 37,
    "lake_name": "Chagbo-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-03-25 19:25", "latitude": 33.38, "lake_name": "Chagbo-co", "longitude": 84.19, "identifier": "L_chagbo-co", "start_date": "2016-04-23 12:37"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-03-25 19:25", "latitude": 33.38, "lake_name": "Chagbo-co", "longitude": 84.19, "identifier": "L_chagbo-co", "start_date": "2016-04-23 12:37", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 37,
    "id_No": 38,
    "lake_name": "Champlain",
    "source": "hydroweb",
-   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "research", "country": "USA&Canada", "end_date": "2014-10-20 17:32", "latitude": 44.5, "lake_name": "Champlain", "longitude": -73.32, "identifier": "L_champlain", "start_date": "2002-10-26 13:40"}
+   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "research", "country": "USA&Canada", "end_date": "2014-10-20 17:32", "latitude": 44.5, "lake_name": "Champlain", "longitude": -73.32, "identifier": "L_champlain", "start_date": "2002-10-26 13:40", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 38,
    "id_No": 39,
    "lake_name": "Chapala",
    "source": "hydroweb",
-   "metadata": {"basin": "Santiago", "source": "hydroweb", "status": "operational", "country": "Mexico", "end_date": "2020-09-23 17:05", "latitude": 20.24, "lake_name": "Chapala", "longitude": -103.06, "identifier": "L_chapala", "start_date": "2011-03-20 13:14"}
+   "metadata": {"basin": "Santiago", "source": "hydroweb", "status": "operational", "country": "Mexico", "end_date": "2020-09-23 17:05", "latitude": 20.24, "lake_name": "Chapala", "longitude": -103.06, "identifier": "L_chapala", "start_date": "2011-03-20 13:14", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 39,
    "id_No": 40,
    "lake_name": "Chardarya",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "operational", "country": "Kazakhstan", "end_date": "2020-10-05 05:10", "latitude": 41.12, "lake_name": "Chardarya", "longitude": 68.16, "identifier": "L_chardarya", "start_date": "1992-09-30 00:51"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "operational", "country": "Kazakhstan", "end_date": "2020-10-05 05:10", "latitude": 41.12, "lake_name": "Chardarya", "longitude": 68.16, "identifier": "L_chardarya", "start_date": "1992-09-30 00:51", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 40,
    "id_No": 41,
    "lake_name": "Chiquita",
    "source": "hydroweb",
-   "metadata": {"basin": "Lake Mar Chiquita", "source": "hydroweb", "status": "research", "country": "Argentina", "end_date": "2020-03-28 19:03", "latitude": -30.75, "lake_name": "Chiquita", "longitude": -62.58, "identifier": "L_chiquita", "start_date": "1995-06-01 16:02"}
+   "metadata": {"basin": "Lake Mar Chiquita", "source": "hydroweb", "status": "research", "country": "Argentina", "end_date": "2020-03-28 19:03", "latitude": -30.75, "lake_name": "Chiquita", "longitude": -62.58, "identifier": "L_chiquita", "start_date": "1995-06-01 16:02", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 41,
    "id_No": 42,
    "lake_name": "Chukchagirskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2019-08-06 22:07", "latitude": 52.0, "lake_name": "Chukchagirskoye", "longitude": 136.58, "identifier": "L_chukchagirskoye", "start_date": "2008-07-09 00:23"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2019-08-06 22:07", "latitude": 52.0, "lake_name": "Chukchagirskoye", "longitude": 136.58, "identifier": "L_chukchagirskoye", "start_date": "2008-07-09 00:23", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 42,
    "id_No": 43,
    "lake_name": "Cochrane",
    "source": "hydroweb",
-   "metadata": {"basin": "Baker", "source": "hydroweb", "status": "research", "country": "Chile&Argentina", "end_date": "2020-04-08 06:21", "latitude": -47.3, "lake_name": "Cochrane", "longitude": -72.0, "identifier": "L_cochrane", "start_date": "2008-02-13 12:03"}
+   "metadata": {"basin": "Baker", "source": "hydroweb", "status": "research", "country": "Chile&Argentina", "end_date": "2020-04-08 06:21", "latitude": -47.3, "lake_name": "Cochrane", "longitude": -72.0, "identifier": "L_cochrane", "start_date": "2008-02-13 12:03", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 43,
    "id_No": 44,
    "lake_name": "Dagze-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-13 15:48", "latitude": 31.9, "lake_name": "Dagze-co", "longitude": 87.55, "identifier": "L_dagze-co", "start_date": "1993-02-02 11:38"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-13 15:48", "latitude": 31.9, "lake_name": "Dagze-co", "longitude": 87.55, "identifier": "L_dagze-co", "start_date": "1993-02-02 11:38", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 44,
    "id_No": 45,
    "lake_name": "Dalai",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-04-10 05:24", "latitude": 43.37, "lake_name": "Dalai", "longitude": 116.62, "identifier": "L_dalai", "start_date": "2016-03-16 23:54"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-04-10 05:24", "latitude": 43.37, "lake_name": "Dalai", "longitude": 116.62, "identifier": "L_dalai", "start_date": "2016-03-16 23:54", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 45,
    "id_No": 46,
    "lake_name": "Des_bois",
    "source": "hydroweb",
-   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-06 00:18", "latitude": 49.25, "lake_name": "Des_bois", "longitude": -94.65, "identifier": "L_des_bois", "start_date": "1992-09-30 00:51"}
+   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-06 00:18", "latitude": 49.25, "lake_name": "Des_bois", "longitude": -94.65, "identifier": "L_des_bois", "start_date": "1992-09-30 00:51", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 46,
    "id_No": 47,
    "lake_name": "Dogaicoring",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2019-06-16 01:24", "latitude": 34.6, "lake_name": "Dogaicoring", "longitude": 88.9, "identifier": "L_dogaicoring", "start_date": "1995-06-10 23:09"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2019-06-16 01:24", "latitude": 34.6, "lake_name": "Dogaicoring", "longitude": 88.9, "identifier": "L_dogaicoring", "start_date": "1995-06-10 23:09", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 47,
    "id_No": 48,
    "lake_name": "Dogaicoring-q",
    "source": "hydroweb",
-   "metadata": {"basin": "Tarim", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-25 15:38", "latitude": 35.3, "lake_name": "Dogaicoring-q", "longitude": 89.26, "identifier": "L_dogaicoring-q", "start_date": "2002-10-16 17:09"}
+   "metadata": {"basin": "Tarim", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-25 15:38", "latitude": 35.3, "lake_name": "Dogaicoring-q", "longitude": 89.26, "identifier": "L_dogaicoring-q", "start_date": "2002-10-16 17:09", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 48,
    "id_No": 49,
    "lake_name": "Dongting",
    "source": "hydroweb",
-   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2015-02-15 09:39", "latitude": 29.33, "lake_name": "Dongting", "longitude": 112.92, "identifier": "L_dongting", "start_date": "1992-11-17 01:55"}
+   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2015-02-15 09:39", "latitude": 29.33, "lake_name": "Dongting", "longitude": 112.92, "identifier": "L_dongting", "start_date": "1992-11-17 01:55", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 49,
    "id_No": 50,
    "lake_name": "Dorgon",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Mongolia", "end_date": "2020-10-06 03:41", "latitude": 47.68, "lake_name": "Dorgon", "longitude": 93.45, "identifier": "L_dorgon", "start_date": "2008-07-09 23:55"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Mongolia", "end_date": "2020-10-06 03:41", "latitude": 47.68, "lake_name": "Dorgon", "longitude": 93.45, "identifier": "L_dorgon", "start_date": "2008-07-09 23:55", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 50,
    "id_No": 51,
    "lake_name": "Dubawnt",
    "source": "hydroweb",
-   "metadata": {"basin": "Thelon", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-29 20:02", "latitude": 63.1, "lake_name": "Dubawnt", "longitude": -101.42, "identifier": "L_dubawnt", "start_date": "2008-07-14 00:26"}
+   "metadata": {"basin": "Thelon", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-29 20:02", "latitude": 63.1, "lake_name": "Dubawnt", "longitude": -101.42, "identifier": "L_dubawnt", "start_date": "2008-07-14 00:26", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 51,
    "id_No": 52,
    "lake_name": "Edouard",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Congo&Uganda", "end_date": "2020-09-30 20:01", "latitude": -0.34, "lake_name": "Edouard", "longitude": 29.6, "identifier": "L_edouard", "start_date": "1995-05-26 15:40"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Congo&Uganda", "end_date": "2020-09-30 20:01", "latitude": -0.34, "lake_name": "Edouard", "longitude": 29.6, "identifier": "L_edouard", "start_date": "1995-05-26 15:40", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 52,
    "id_No": 53,
    "lake_name": "Erie",
    "source": "hydroweb",
-   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-06 14:54", "latitude": 42.0, "lake_name": "Erie", "longitude": -81.0, "identifier": "L_erie", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-06 14:54", "latitude": 42.0, "lake_name": "Erie", "longitude": -81.0, "identifier": "L_erie", "start_date": "1992-09-28 22:30", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 53,
    "id_No": 54,
    "lake_name": "Fort_peck",
    "source": "hydroweb",
-   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-01 02:16", "latitude": 47.87, "lake_name": "Fort_peck", "longitude": -106.53, "identifier": "L_fort_peck", "start_date": "1992-10-16 03:21"}
+   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-01 02:16", "latitude": 47.87, "lake_name": "Fort_peck", "longitude": -106.53, "identifier": "L_fort_peck", "start_date": "1992-10-16 03:21", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 54,
    "id_No": 55,
    "lake_name": "General_carrera",
    "source": "hydroweb",
-   "metadata": {"basin": "Baker", "source": "hydroweb", "status": "research", "country": "Argentina&Chile", "end_date": "2020-04-08 06:21", "latitude": -46.49, "lake_name": "General_carrera", "longitude": -72.0, "identifier": "L_general_carrera", "start_date": "1995-06-05 01:14"}
+   "metadata": {"basin": "Baker", "source": "hydroweb", "status": "research", "country": "Argentina&Chile", "end_date": "2020-04-08 06:21", "latitude": -46.49, "lake_name": "General_carrera", "longitude": -72.0, "identifier": "L_general_carrera", "start_date": "1995-06-05 01:14", "type": "lake", "quality": "high"}
  },
  {
    "FIELD1": 55,
    "id_No": 56,
    "lake_name": "Grande_trois",
    "source": "hydroweb",
-   "metadata": {"basin": "Grande-Riviere-Baleine", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-02 23:12", "latitude": 53.83, "lake_name": "Grande_trois", "longitude": -75.38, "identifier": "L_grande_trois", "start_date": "1992-10-14 16:13"}
+   "metadata": {"basin": "Grande-Riviere-Baleine", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-02 23:12", "latitude": 53.83, "lake_name": "Grande_trois", "longitude": -75.38, "identifier": "L_grande_trois", "start_date": "1992-10-14 16:13", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 56,
    "id_No": 57,
    "lake_name": "Great_bear",
    "source": "hydroweb",
-   "metadata": {"basin": "MacKenzie River", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2010-10-09 21:00", "latitude": 66.0, "lake_name": "Great_bear", "longitude": -120.0, "identifier": "L_great_bear", "start_date": "2002-09-25 06:35"}
+   "metadata": {"basin": "MacKenzie River", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2010-10-09 21:00", "latitude": 66.0, "lake_name": "Great_bear", "longitude": -120.0, "identifier": "L_great_bear", "start_date": "2002-09-25 06:35", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 57,
    "id_No": 58,
    "lake_name": "Great_salt",
    "source": "hydroweb",
-   "metadata": {"basin": "Bear", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2019-10-26 17:53", "latitude": 41.1, "lake_name": "Great_salt", "longitude": -112.49, "identifier": "L_great_salt", "start_date": "1995-05-25 16:06"}
+   "metadata": {"basin": "Bear", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2019-10-26 17:53", "latitude": 41.1, "lake_name": "Great_salt", "longitude": -112.49, "identifier": "L_great_salt", "start_date": "1995-05-25 16:06", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 58,
    "id_No": 59,
    "lake_name": "Greatslave",
    "source": "hydroweb",
-   "metadata": {"basin": "Mackenzie River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 00:13", "latitude": 61.83, "lake_name": "Greatslave", "longitude": -114.0, "identifier": "L_greatslave", "start_date": "1992-10-01 12:00"}
+   "metadata": {"basin": "Mackenzie River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 00:13", "latitude": 61.83, "lake_name": "Greatslave", "longitude": -114.0, "identifier": "L_greatslave", "start_date": "1992-10-01 12:00", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 59,
    "id_No": 60,
    "lake_name": "Guri",
    "source": "hydroweb",
-   "metadata": {"basin": "Orinoco", "source": "hydroweb", "status": "operational", "country": "Venezuela", "end_date": "2020-10-05 00:12", "latitude": 7.41, "lake_name": "Guri", "longitude": -62.8, "identifier": "L_guri", "start_date": "1992-09-30 00:51"}
+   "metadata": {"basin": "Orinoco", "source": "hydroweb", "status": "operational", "country": "Venezuela", "end_date": "2020-10-05 00:12", "latitude": 7.41, "lake_name": "Guri", "longitude": -62.8, "identifier": "L_guri", "start_date": "1992-09-30 00:51", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 60,
    "id_No": 61,
    "lake_name": "Har",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Mongolia", "end_date": "2020-10-06 03:41", "latitude": 48.1, "lake_name": "Har", "longitude": 93.23, "identifier": "L_har", "start_date": "1992-10-13 13:52"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Mongolia", "end_date": "2020-10-06 03:41", "latitude": 48.1, "lake_name": "Har", "longitude": 93.23, "identifier": "L_har", "start_date": "1992-10-13 13:52", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 61,
    "id_No": 62,
    "lake_name": "Hinojo",
    "source": "hydroweb",
-   "metadata": {"basin": "Salado", "source": "hydroweb", "status": "research", "country": "Argentina", "end_date": "2020-04-03 05:31", "latitude": -35.97, "lake_name": "Hinojo", "longitude": -62.43, "identifier": "L_hinojo", "start_date": "2016-03-09 23:36"}
+   "metadata": {"basin": "Salado", "source": "hydroweb", "status": "research", "country": "Argentina", "end_date": "2020-04-03 05:31", "latitude": -35.97, "lake_name": "Hinojo", "longitude": -62.43, "identifier": "L_hinojo", "start_date": "2016-03-09 23:36", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 62,
    "id_No": 63,
    "lake_name": "Hongze",
    "source": "hydroweb",
-   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-28 12:31", "latitude": 33.3, "lake_name": "Hongze", "longitude": 118.68, "identifier": "L_hongze", "start_date": "1992-10-13 13:52"}
+   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-28 12:31", "latitude": 33.3, "lake_name": "Hongze", "longitude": 118.68, "identifier": "L_hongze", "start_date": "1992-10-13 13:52", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 63,
    "id_No": 64,
    "lake_name": "Hovsgol",
    "source": "hydroweb",
-   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Mongolia", "end_date": "2020-10-05 11:10", "latitude": 51.0, "lake_name": "Hovsgol", "longitude": 100.41, "identifier": "L_hovsgol", "start_date": "1992-10-14 16:13"}
+   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Mongolia", "end_date": "2020-10-05 11:10", "latitude": 51.0, "lake_name": "Hovsgol", "longitude": 100.41, "identifier": "L_hovsgol", "start_date": "1992-10-14 16:13", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 64,
    "id_No": 65,
    "lake_name": "Huapi",
    "source": "hydroweb",
-   "metadata": {"basin": "Chubut", "source": "hydroweb", "status": "research", "country": "Argentina", "end_date": "2020-04-11 06:00", "latitude": -45.58, "lake_name": "Huapi", "longitude": -68.8, "identifier": "L_huapi", "start_date": "1992-10-19 19:12"}
+   "metadata": {"basin": "Chubut", "source": "hydroweb", "status": "research", "country": "Argentina", "end_date": "2020-04-11 06:00", "latitude": -45.58, "lake_name": "Huapi", "longitude": -68.8, "identifier": "L_huapi", "start_date": "1992-10-19 19:12", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 65,
    "id_No": 66,
    "lake_name": "Hulun",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-30 11:16", "latitude": 49.0, "lake_name": "Hulun", "longitude": 117.5, "identifier": "L_hulun", "start_date": "1992-10-16 03:21"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-30 11:16", "latitude": 49.0, "lake_name": "Hulun", "longitude": 117.5, "identifier": "L_hulun", "start_date": "1992-10-16 03:21", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 66,
    "id_No": 67,
    "lake_name": "Huron",
    "source": "hydroweb",
-   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-05 02:54", "latitude": 44.67, "lake_name": "Huron", "longitude": -82.28, "identifier": "L_huron", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-05 02:54", "latitude": 44.67, "lake_name": "Huron", "longitude": -82.28, "identifier": "L_huron", "start_date": "1992-09-28 04:56", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 67,
    "id_No": 68,
    "lake_name": "Hyargas",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "Mongolia", "end_date": "2020-04-10 05:24", "latitude": 49.17, "lake_name": "Hyargas", "longitude": 93.33, "identifier": "L_hyargas", "start_date": "1995-06-09 01:31"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "Mongolia", "end_date": "2020-04-10 05:24", "latitude": 49.17, "lake_name": "Hyargas", "longitude": 93.33, "identifier": "L_hyargas", "start_date": "1995-06-09 01:31", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 68,
    "id_No": 69,
    "lake_name": "Iguazu",
    "source": "hydroweb",
-   "metadata": {"basin": "Parana", "source": "hydroweb", "status": "research", "country": "Paraguay", "end_date": "2014-12-25 01:11", "latitude": -25.31, "lake_name": "Iguazu", "longitude": -55.16, "identifier": "L_iguazu", "start_date": "1995-06-20 01:38"}
+   "metadata": {"basin": "Parana", "source": "hydroweb", "status": "research", "country": "Paraguay", "end_date": "2014-12-25 01:11", "latitude": -25.31, "lake_name": "Iguazu", "longitude": -55.16, "identifier": "L_iguazu", "start_date": "1995-06-20 01:38", "type": "dam", "quality": "high"}
  },
  {
    "FIELD1": 69,
    "id_No": 70,
    "lake_name": "Ilha_solteira",
    "source": "hydroweb",
-   "metadata": {"basin": "Parana", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2014-10-23 17:10", "latitude": -20.2, "lake_name": "Ilha_solteira", "longitude": -51.04, "identifier": "L_ilha_solteira", "start_date": "2002-10-30 22:47"}
+   "metadata": {"basin": "Parana", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2014-10-23 17:10", "latitude": -20.2, "lake_name": "Ilha_solteira", "longitude": -51.04, "identifier": "L_ilha_solteira", "start_date": "2002-10-30 22:47", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 70,
    "id_No": 71,
    "lake_name": "Iliamna",
    "source": "hydroweb",
-   "metadata": {"basin": "Illiamna", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-06 21:20", "latitude": 59.56, "lake_name": "Iliamna", "longitude": -154.9, "identifier": "L_iliamna", "start_date": "2008-07-26 00:50"}
+   "metadata": {"basin": "Illiamna", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-06 21:20", "latitude": 59.56, "lake_name": "Iliamna", "longitude": -154.9, "identifier": "L_iliamna", "start_date": "2008-07-26 00:50", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 71,
    "id_No": 72,
    "lake_name": "Illmen",
    "source": "hydroweb",
-   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-25 19:25", "latitude": 58.27, "lake_name": "Illmen", "longitude": 31.3, "identifier": "L_illmen", "start_date": "1995-06-02 15:31"}
+   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-25 19:25", "latitude": 58.27, "lake_name": "Illmen", "longitude": 31.3, "identifier": "L_illmen", "start_date": "1995-06-02 15:31", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 72,
    "id_No": 73,
    "lake_name": "Issykkul",
    "source": "hydroweb",
-   "metadata": {"basin": "Issyk-Kul", "source": "hydroweb", "status": "operational", "country": "Kyrgyzstan", "end_date": "2020-10-05 16:21", "latitude": 42.42, "lake_name": "Issykkul", "longitude": 77.33, "identifier": "L_issykkul", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "Issyk-Kul", "source": "hydroweb", "status": "operational", "country": "Kyrgyzstan", "end_date": "2020-10-05 16:21", "latitude": 42.42, "lake_name": "Issykkul", "longitude": 77.33, "identifier": "L_issykkul", "start_date": "1992-09-28 22:30", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 73,
    "id_No": 74,
    "lake_name": "Itaparica",
    "source": "hydroweb",
-   "metadata": {"basin": "Sao-Francisco", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2010-09-24 10:48", "latitude": -8.95, "lake_name": "Itaparica", "longitude": -38.51, "identifier": "L_itaparica", "start_date": "2002-10-01 18:00"}
+   "metadata": {"basin": "Sao-Francisco", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2010-09-24 10:48", "latitude": -8.95, "lake_name": "Itaparica", "longitude": -38.51, "identifier": "L_itaparica", "start_date": "2002-10-01 18:00", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 74,
    "id_No": 75,
    "lake_name": "Izabal",
    "source": "hydroweb",
-   "metadata": {"basin": "Motagua", "source": "hydroweb", "status": "research", "country": "Guatemala", "end_date": "2010-10-04 09:35", "latitude": 15.5, "lake_name": "Izabal", "longitude": -89.17, "identifier": "L_izabal", "start_date": "2002-10-19 00:00"}
+   "metadata": {"basin": "Motagua", "source": "hydroweb", "status": "research", "country": "Guatemala", "end_date": "2010-10-04 09:35", "latitude": 15.5, "lake_name": "Izabal", "longitude": -89.17, "identifier": "L_izabal", "start_date": "2002-10-19 00:00", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 75,
    "id_No": 76,
    "lake_name": "Jingyu",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-20 17:32", "latitude": 36.32, "lake_name": "Jingyu", "longitude": 89.45, "identifier": "L_jingyu", "start_date": "1995-07-16 08:52"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-20 17:32", "latitude": 36.32, "lake_name": "Jingyu", "longitude": 89.45, "identifier": "L_jingyu", "start_date": "1995-07-16 08:52", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 76,
    "id_No": 77,
    "lake_name": "Kabele",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-10-03 20:21", "latitude": -8.94, "lake_name": "Kabele", "longitude": 25.98, "identifier": "L_kabele", "start_date": "2016-03-06 00:07"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-10-03 20:21", "latitude": -8.94, "lake_name": "Kabele", "longitude": 25.98, "identifier": "L_kabele", "start_date": "2016-03-06 00:07", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 77,
    "id_No": 78,
    "lake_name": "Kabwe",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-10-03 20:21", "latitude": -9.15, "lake_name": "Kabwe", "longitude": 26.02, "identifier": "L_kabwe", "start_date": "2016-03-06 00:07"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-10-03 20:21", "latitude": -9.15, "lake_name": "Kabwe", "longitude": 26.02, "identifier": "L_kabwe", "start_date": "2016-03-06 00:07", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 78,
    "id_No": 79,
    "lake_name": "Kainji",
    "source": "hydroweb",
-   "metadata": {"basin": "Niger", "source": "hydroweb", "status": "operational", "country": "Nigeria", "end_date": "2020-07-26 22:32", "latitude": 10.31, "lake_name": "Kainji", "longitude": 4.56, "identifier": "L_kainji", "start_date": "1992-11-18 01:55"}
+   "metadata": {"basin": "Niger", "source": "hydroweb", "status": "operational", "country": "Nigeria", "end_date": "2020-07-26 22:32", "latitude": 10.31, "lake_name": "Kainji", "longitude": 4.56, "identifier": "L_kainji", "start_date": "1992-11-18 01:55", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 79,
    "id_No": 80,
    "lake_name": "Kairakum",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "operational", "country": "Tadjikistan", "end_date": "2020-09-30 16:51", "latitude": 40.3, "lake_name": "Kairakum", "longitude": 70.1, "identifier": "L_kairakum", "start_date": "2008-07-23 01:04"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "operational", "country": "Tadjikistan", "end_date": "2020-09-30 16:51", "latitude": 40.3, "lake_name": "Kairakum", "longitude": 70.1, "identifier": "L_kairakum", "start_date": "2008-07-23 01:04", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 80,
    "id_No": 81,
    "lake_name": "Kamskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-02-28 09:53", "latitude": 58.8, "lake_name": "Kamskoye", "longitude": 56.3, "identifier": "L_kamskoye", "start_date": "2008-07-07 00:04"}
+   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-02-28 09:53", "latitude": 58.8, "lake_name": "Kamskoye", "longitude": 56.3, "identifier": "L_kamskoye", "start_date": "2008-07-07 00:04", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 81,
    "id_No": 82,
    "lake_name": "Kapchagayskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Balkhash", "source": "hydroweb", "status": "operational", "country": "Kazakhstan", "end_date": "2020-10-02 13:54", "latitude": 43.81, "lake_name": "Kapchagayskoye", "longitude": 77.57, "identifier": "L_kapchagayskoye", "start_date": "1992-11-18 01:55"}
+   "metadata": {"basin": "Balkhash", "source": "hydroweb", "status": "operational", "country": "Kazakhstan", "end_date": "2020-10-02 13:54", "latitude": 43.81, "lake_name": "Kapchagayskoye", "longitude": 77.57, "identifier": "L_kapchagayskoye", "start_date": "1992-11-18 01:55", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 82,
    "id_No": 83,
    "lake_name": "Kara_bogaz_gol",
    "source": "hydroweb",
-   "metadata": {"basin": "Caspian", "source": "hydroweb", "status": "operational", "country": "Turkmenistan", "end_date": "2020-10-05 14:59", "latitude": 41.3, "lake_name": "Kara_bogaz_gol", "longitude": 53.6, "identifier": "L_kara_bogaz_gol", "start_date": "1992-10-17 14:29"}
+   "metadata": {"basin": "Caspian", "source": "hydroweb", "status": "operational", "country": "Turkmenistan", "end_date": "2020-10-05 14:59", "latitude": 41.3, "lake_name": "Kara_bogaz_gol", "longitude": 53.6, "identifier": "L_kara_bogaz_gol", "start_date": "1992-10-17 14:29", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 83,
    "id_No": 84,
    "lake_name": "Karasor",
    "source": "hydroweb",
-   "metadata": {"basin": "Karasor", "source": "hydroweb", "status": "operational", "country": "Kazakstan", "end_date": "2020-09-18 05:40", "latitude": 49.87, "lake_name": "Karasor", "longitude": 75.39, "identifier": "L_karasor", "start_date": "2016-03-18 00:35"}
+   "metadata": {"basin": "Karasor", "source": "hydroweb", "status": "operational", "country": "Kazakstan", "end_date": "2020-09-18 05:40", "latitude": 49.87, "lake_name": "Karasor", "longitude": 75.39, "identifier": "L_karasor", "start_date": "2016-03-18 00:35", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 84,
    "id_No": 85,
    "lake_name": "Kariba",
    "source": "hydroweb",
-   "metadata": {"basin": "Zambezi", "source": "hydroweb", "status": "operational", "country": "Zambia&Zimbabwe", "end_date": "2020-10-03 20:19", "latitude": -16.93, "lake_name": "Kariba", "longitude": 28.0, "identifier": "L_kariba", "start_date": "1992-09-26 00:14"}
+   "metadata": {"basin": "Zambezi", "source": "hydroweb", "status": "operational", "country": "Zambia&Zimbabwe", "end_date": "2020-10-03 20:19", "latitude": -16.93, "lake_name": "Kariba", "longitude": 28.0, "identifier": "L_kariba", "start_date": "1992-09-26 00:14", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 85,
    "id_No": 86,
    "lake_name": "Kasba",
    "source": "hydroweb",
-   "metadata": {"basin": "Thlewiaza", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-28 19:38", "latitude": 60.26, "lake_name": "Kasba", "longitude": -102.15, "identifier": "L_kasba", "start_date": "2002-10-22 17:39"}
+   "metadata": {"basin": "Thlewiaza", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-28 19:38", "latitude": 60.26, "lake_name": "Kasba", "longitude": -102.15, "identifier": "L_kasba", "start_date": "2002-10-22 17:39", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 86,
    "id_No": 87,
    "lake_name": "Khanka",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "Russia&China", "end_date": "2020-10-02 10:08", "latitude": 45.0, "lake_name": "Khanka", "longitude": 132.42, "identifier": "L_khanka", "start_date": "2000-01-24 01:23"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "Russia&China", "end_date": "2020-10-02 10:08", "latitude": 45.0, "lake_name": "Khanka", "longitude": 132.42, "identifier": "L_khanka", "start_date": "2000-01-24 01:23", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 87,
    "id_No": 88,
    "lake_name": "Kikuletwa",
    "source": "hydroweb",
-   "metadata": {"basin": "Pangani", "source": "hydroweb", "status": "research", "country": "Tanzania", "end_date": "2019-05-12 15:53", "latitude": -3.71, "lake_name": "Kikuletwa", "longitude": 37.42, "identifier": "L_kikuletwa", "start_date": "2008-07-11 00:36"}
+   "metadata": {"basin": "Pangani", "source": "hydroweb", "status": "research", "country": "Tanzania", "end_date": "2019-05-12 15:53", "latitude": -3.71, "lake_name": "Kikuletwa", "longitude": 37.42, "identifier": "L_kikuletwa", "start_date": "2008-07-11 00:36", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 88,
    "id_No": 89,
    "lake_name": "Kivu",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "research", "country": "Congo&Rwanda", "end_date": "2020-04-10 05:24", "latitude": -1.98, "lake_name": "Kivu", "longitude": 29.13, "identifier": "L_kivu", "start_date": "1995-05-26 15:40"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "research", "country": "Congo&Rwanda", "end_date": "2020-04-10 05:24", "latitude": -1.98, "lake_name": "Kivu", "longitude": 29.13, "identifier": "L_kivu", "start_date": "1995-05-26 15:40", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 89,
    "id_No": 90,
    "lake_name": "Kokonor",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-08-23 14:54", "latitude": 36.92, "lake_name": "Kokonor", "longitude": 100.17, "identifier": "L_kokonor", "start_date": "1995-06-06 05:16"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-08-23 14:54", "latitude": 36.92, "lake_name": "Kokonor", "longitude": 100.17, "identifier": "L_kokonor", "start_date": "1995-06-06 05:16", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 90,
    "id_No": 91,
    "lake_name": "Kossou",
    "source": "hydroweb",
-   "metadata": {"basin": "Bandama", "source": "hydroweb", "status": "operational", "country": "Ivory-Coast", "end_date": "2020-09-21 22:18", "latitude": 7.33, "lake_name": "Kossou", "longitude": -5.57, "identifier": "L_kossou", "start_date": "2016-03-21 00:26"}
+   "metadata": {"basin": "Bandama", "source": "hydroweb", "status": "operational", "country": "Ivory-Coast", "end_date": "2020-09-21 22:18", "latitude": 7.33, "lake_name": "Kossou", "longitude": -5.57, "identifier": "L_kossou", "start_date": "2016-03-21 00:26", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 91,
    "id_No": 92,
    "lake_name": "Krasnoyarskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-04 04:53", "latitude": 54.82, "lake_name": "Krasnoyarskoye", "longitude": 90.94, "identifier": "L_krasnoyarskoye", "start_date": "2002-10-07 14:09"}
+   "metadata": {"basin": "Yenisei", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-04 04:53", "latitude": 54.82, "lake_name": "Krasnoyarskoye", "longitude": 90.94, "identifier": "L_krasnoyarskoye", "start_date": "2002-10-07 14:09", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 92,
    "id_No": 93,
    "lake_name": "Kremenchutska",
    "source": "hydroweb",
-   "metadata": {"basin": "Dniepr", "source": "hydroweb", "status": "operational", "country": "Ukraine", "end_date": "2020-09-30 09:02", "latitude": 49.26, "lake_name": "Kremenchutska", "longitude": 32.69, "identifier": "L_kremenchutska", "start_date": "1992-10-10 15:35"}
+   "metadata": {"basin": "Dniepr", "source": "hydroweb", "status": "operational", "country": "Ukraine", "end_date": "2020-09-30 09:02", "latitude": 49.26, "lake_name": "Kremenchutska", "longitude": 32.69, "identifier": "L_kremenchutska", "start_date": "1992-10-10 15:35", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 93,
    "id_No": 94,
    "lake_name": "Kubenskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "northern-dvina", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-20 19:39", "latitude": 59.6, "lake_name": "Kubenskoye", "longitude": 39.5, "identifier": "L_kubenskoye", "start_date": "2016-03-03 23:54"}
+   "metadata": {"basin": "northern-dvina", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-20 19:39", "latitude": 59.6, "lake_name": "Kubenskoye", "longitude": 39.5, "identifier": "L_kubenskoye", "start_date": "2016-03-03 23:54", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 94,
    "id_No": 95,
    "lake_name": "Kulundinskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Tchany", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-29 19:39", "latitude": 53.0, "lake_name": "Kulundinskoye", "longitude": 79.5, "identifier": "L_kulundinskoye", "start_date": "2016-03-13 00:30"}
+   "metadata": {"basin": "Tchany", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-29 19:39", "latitude": 53.0, "lake_name": "Kulundinskoye", "longitude": 79.5, "identifier": "L_kulundinskoye", "start_date": "2016-03-13 00:30", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 95,
    "id_No": 96,
    "lake_name": "Kumskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Kem", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-29 19:39", "latitude": 65.75, "lake_name": "Kumskoye", "longitude": 31.8, "identifier": "L_kumskoye", "start_date": "2008-07-20 01:13"}
+   "metadata": {"basin": "Kem", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-29 19:39", "latitude": 65.75, "lake_name": "Kumskoye", "longitude": 31.8, "identifier": "L_kumskoye", "start_date": "2008-07-20 01:13", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 96,
    "id_No": 97,
    "lake_name": "Kuybyshevskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-09-29 08:43", "latitude": 54.63, "lake_name": "Kuybyshevskoye", "longitude": 48.86, "identifier": "L_kuybyshevskoye", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-09-29 08:43", "latitude": 54.63, "lake_name": "Kuybyshevskoye", "longitude": 48.86, "identifier": "L_kuybyshevskoye", "start_date": "1992-09-28 22:30", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 97,
    "id_No": 98,
    "lake_name": "Kwania",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "research", "country": "Uganda", "end_date": "2020-03-21 19:10", "latitude": 1.75, "lake_name": "Kwania", "longitude": 32.75, "identifier": "L_kwania", "start_date": "2008-07-11 00:36"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "research", "country": "Uganda", "end_date": "2020-03-21 19:10", "latitude": 1.75, "lake_name": "Kwania", "longitude": 32.75, "identifier": "L_kwania", "start_date": "2008-07-11 00:36", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 98,
    "id_No": 99,
    "lake_name": "Kyoga",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Uganda", "end_date": "2020-10-03 18:15", "latitude": 1.48, "lake_name": "Kyoga", "longitude": 33.01, "identifier": "L_kyoga", "start_date": "1992-09-27 20:09"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Uganda", "end_date": "2020-10-03 18:15", "latitude": 1.48, "lake_name": "Kyoga", "longitude": 33.01, "identifier": "L_kyoga", "start_date": "1992-09-27 20:09", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 99,
    "id_No": 100,
    "lake_name": "Ladoga",
    "source": "hydroweb",
-   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-06 09:24", "latitude": 60.83, "lake_name": "Ladoga", "longitude": 31.37, "identifier": "L_ladoga", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-06 09:24", "latitude": 60.83, "lake_name": "Ladoga", "longitude": 31.37, "identifier": "L_ladoga", "start_date": "1992-09-27 02:35", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 100,
    "id_No": 101,
    "lake_name": "Lagdo",
    "source": "hydroweb",
-   "metadata": {"basin": "Niger", "source": "hydroweb", "status": "research", "country": "Cameroon", "end_date": "2020-03-19 19:03", "latitude": 8.9, "lake_name": "Lagdo", "longitude": 13.9, "identifier": "L_lagdo", "start_date": "2013-03-26 18:56"}
+   "metadata": {"basin": "Niger", "source": "hydroweb", "status": "research", "country": "Cameroon", "end_date": "2020-03-19 19:03", "latitude": 8.9, "lake_name": "Lagdo", "longitude": 13.9, "identifier": "L_lagdo", "start_date": "2013-03-26 18:56", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 101,
    "id_No": 102,
    "lake_name": "Lagoa_do_patos",
    "source": "hydroweb",
-   "metadata": {"basin": "Brazilsoutheast", "source": "hydroweb", "status": "operational", "country": "Brazil", "end_date": "2020-10-02 11:09", "latitude": -31.13, "lake_name": "Lagoa_do_patos", "longitude": -51.36, "identifier": "L_lagoa_do_patos", "start_date": "1992-10-16 03:21"}
+   "metadata": {"basin": "Brazilsoutheast", "source": "hydroweb", "status": "operational", "country": "Brazil", "end_date": "2020-10-02 11:09", "latitude": -31.13, "lake_name": "Lagoa_do_patos", "longitude": -51.36, "identifier": "L_lagoa_do_patos", "start_date": "1992-10-16 03:21", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 102,
    "id_No": 103,
    "lake_name": "Langa-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Indus", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-06 03:35", "latitude": 30.65, "lake_name": "Langa-co", "longitude": 81.24, "identifier": "L_langa-co", "start_date": "2009-04-14 07:04"}
+   "metadata": {"basin": "Indus", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-06 03:35", "latitude": 30.65, "lake_name": "Langa-co", "longitude": 81.24, "identifier": "L_langa-co", "start_date": "2009-04-14 07:04", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 103,
    "id_No": 104,
    "lake_name": "Langano",
    "source": "hydroweb",
-   "metadata": {"basin": "Great Rift Valley", "source": "hydroweb", "status": "operational", "country": "Ethiopia", "end_date": "2020-09-22 07:29", "latitude": 7.62, "lake_name": "Langano", "longitude": 38.75, "identifier": "L_langano", "start_date": "2016-03-22 01:07"}
+   "metadata": {"basin": "Great Rift Valley", "source": "hydroweb", "status": "operational", "country": "Ethiopia", "end_date": "2020-09-22 07:29", "latitude": 7.62, "lake_name": "Langano", "longitude": 38.75, "identifier": "L_langano", "start_date": "2016-03-22 01:07", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 104,
    "id_No": 105,
    "lake_name": "Lixiodain-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-29 15:35", "latitude": 35.75, "lake_name": "Lixiodain-co", "longitude": 90.2, "identifier": "L_lixiodain-co", "start_date": "1997-04-22 07:48"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-29 15:35", "latitude": 35.75, "lake_name": "Lixiodain-co", "longitude": 90.2, "identifier": "L_lixiodain-co", "start_date": "1997-04-22 07:48", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 105,
    "id_No": 106,
    "lake_name": "Llanquihue",
    "source": "hydroweb",
-   "metadata": {"basin": "ChileSouth", "source": "hydroweb", "status": "research", "country": "Chile", "end_date": "2014-10-22 17:39", "latitude": -41.14, "lake_name": "Llanquihue", "longitude": -72.82, "identifier": "L_llanquihue", "start_date": "2002-10-01 18:00"}
+   "metadata": {"basin": "ChileSouth", "source": "hydroweb", "status": "research", "country": "Chile", "end_date": "2014-10-22 17:39", "latitude": -41.14, "lake_name": "Llanquihue", "longitude": -72.82, "identifier": "L_llanquihue", "start_date": "2002-10-01 18:00", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 106,
    "id_No": 107,
    "lake_name": "Lumajangdong-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2019-03-28 19:03", "latitude": 34.0, "lake_name": "Lumajangdong-co", "longitude": 81.65, "identifier": "L_lumajangdong-co", "start_date": "2002-11-10 04:04"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2019-03-28 19:03", "latitude": 34.0, "lake_name": "Lumajangdong-co", "longitude": 81.65, "identifier": "L_lumajangdong-co", "start_date": "2002-11-10 04:04", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 107,
    "id_No": 108,
    "lake_name": "Malawi",
    "source": "hydroweb",
-   "metadata": {"basin": "Zambezi", "source": "hydroweb", "status": "operational", "country": "Malawi&Mozambique&Tanzania", "end_date": "2020-10-03 06:01", "latitude": -12.0, "lake_name": "Malawi", "longitude": 34.5, "identifier": "L_malawi", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "Zambezi", "source": "hydroweb", "status": "operational", "country": "Malawi&Mozambique&Tanzania", "end_date": "2020-10-03 06:01", "latitude": -12.0, "lake_name": "Malawi", "longitude": 34.5, "identifier": "L_malawi", "start_date": "1992-09-28 04:56", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 108,
    "id_No": 109,
    "lake_name": "Managua",
    "source": "hydroweb",
-   "metadata": {"basin": "San Juan", "source": "hydroweb", "status": "research", "country": "Nicaragua", "end_date": "2015-01-26 20:12", "latitude": 12.35, "lake_name": "Managua", "longitude": -86.35, "identifier": "L_managua", "start_date": "2002-10-30 22:47"}
+   "metadata": {"basin": "San Juan", "source": "hydroweb", "status": "research", "country": "Nicaragua", "end_date": "2015-01-26 20:12", "latitude": 12.35, "lake_name": "Managua", "longitude": -86.35, "identifier": "L_managua", "start_date": "2002-10-30 22:47", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 109,
    "id_No": 110,
    "lake_name": "Mangbeto",
    "source": "hydroweb",
-   "metadata": {"basin": "Mono", "source": "hydroweb", "status": "research", "country": "Togo", "end_date": "2020-03-21 19:10", "latitude": 7.45, "lake_name": "Mangbeto", "longitude": 1.4, "identifier": "L_mangbeto", "start_date": "2016-03-24 00:17"}
+   "metadata": {"basin": "Mono", "source": "hydroweb", "status": "research", "country": "Togo", "end_date": "2020-03-21 19:10", "latitude": 7.45, "lake_name": "Mangbeto", "longitude": 1.4, "identifier": "L_mangbeto", "start_date": "2016-03-24 00:17", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 110,
    "id_No": 111,
    "lake_name": "Manitoba",
    "source": "hydroweb",
-   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-30 17:15", "latitude": 50.98, "lake_name": "Manitoba", "longitude": -98.77, "identifier": "L_manitoba", "start_date": "2000-01-22 23:02"}
+   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-30 17:15", "latitude": 50.98, "lake_name": "Manitoba", "longitude": -98.77, "identifier": "L_manitoba", "start_date": "2000-01-22 23:02", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 111,
    "id_No": 112,
    "lake_name": "Mapam-yamco",
    "source": "hydroweb",
-   "metadata": {"basin": "Indus", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-16 17:17", "latitude": 30.7, "lake_name": "Mapam-yamco", "longitude": 81.5, "identifier": "L_mapam-yamco", "start_date": "2002-10-22 13:19"}
+   "metadata": {"basin": "Indus", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-16 17:17", "latitude": 30.7, "lake_name": "Mapam-yamco", "longitude": 81.5, "identifier": "L_mapam-yamco", "start_date": "2002-10-22 13:19", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 112,
    "id_No": 113,
    "lake_name": "Maracaibo",
    "source": "hydroweb",
-   "metadata": {"basin": "Venezuela", "source": "hydroweb", "status": "research", "country": "Venezuela", "end_date": "2010-10-05 09:35", "latitude": 9.67, "lake_name": "Maracaibo", "longitude": -71.5, "identifier": "L_maracaibo", "start_date": "2002-10-16 08:24"}
+   "metadata": {"basin": "Venezuela", "source": "hydroweb", "status": "research", "country": "Venezuela", "end_date": "2010-10-05 09:35", "latitude": 9.67, "lake_name": "Maracaibo", "longitude": -71.5, "identifier": "L_maracaibo", "start_date": "2002-10-16 08:24", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 113,
    "id_No": 114,
    "lake_name": "Mead",
    "source": "hydroweb",
-   "metadata": {"basin": "Colorado", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2014-12-29 00:21", "latitude": 36.13, "lake_name": "Mead", "longitude": -114.45, "identifier": "L_mead", "start_date": "2000-06-14 10:22"}
+   "metadata": {"basin": "Colorado", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2014-12-29 00:21", "latitude": 36.13, "lake_name": "Mead", "longitude": -114.45, "identifier": "L_mead", "start_date": "2000-06-14 10:22", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 114,
    "id_No": 115,
    "lake_name": "Michigan",
    "source": "hydroweb",
-   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-02 16:25", "latitude": 44.0, "lake_name": "Michigan", "longitude": -87.0, "identifier": "L_michigan", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-02 16:25", "latitude": 44.0, "lake_name": "Michigan", "longitude": -87.0, "identifier": "L_michigan", "start_date": "1992-09-27 02:35", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 115,
    "id_No": 116,
    "lake_name": "Migriggyangzham",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-28 14:24", "latitude": 33.45, "lake_name": "Migriggyangzham", "longitude": 90.33, "identifier": "L_migriggyangzham", "start_date": "1993-02-08 07:47"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-28 14:24", "latitude": 33.45, "lake_name": "Migriggyangzham", "longitude": 90.33, "identifier": "L_migriggyangzham", "start_date": "1993-02-08 07:47", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 116,
    "id_No": 117,
    "lake_name": "Mingacevir",
    "source": "hydroweb",
-   "metadata": {"basin": "Kura", "source": "hydroweb", "status": "research", "country": "Azerbaidjan", "end_date": "2015-02-02 20:06", "latitude": 40.9, "lake_name": "Mingacevir", "longitude": 46.8, "identifier": "L_mingacevir", "start_date": "2002-09-01 02:09"}
+   "metadata": {"basin": "Kura", "source": "hydroweb", "status": "research", "country": "Azerbaidjan", "end_date": "2015-02-02 20:06", "latitude": 40.9, "lake_name": "Mingacevir", "longitude": 46.8, "identifier": "L_mingacevir", "start_date": "2002-09-01 02:09", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 117,
    "id_No": 118,
    "lake_name": "Moeckeln",
    "source": "hydroweb",
-   "metadata": {"basin": "Sweeden", "source": "hydroweb", "status": "research", "country": "Sweeden", "end_date": "2019-10-24 17:46", "latitude": 56.67, "lake_name": "Moeckeln", "longitude": 14.18, "identifier": "L_moeckeln", "start_date": "2016-06-26 13:12"}
+   "metadata": {"basin": "Sweeden", "source": "hydroweb", "status": "research", "country": "Sweeden", "end_date": "2019-10-24 17:46", "latitude": 56.67, "lake_name": "Moeckeln", "longitude": 14.18, "identifier": "L_moeckeln", "start_date": "2016-06-26 13:12", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 118,
    "id_No": 119,
    "lake_name": "Mossoul",
    "source": "hydroweb",
-   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "operational", "country": "Irak", "end_date": "2020-09-30 16:58", "latitude": 36.68, "lake_name": "Mossoul", "longitude": 42.9, "identifier": "L_mossoul", "start_date": "1992-10-16 03:21"}
+   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "operational", "country": "Irak", "end_date": "2020-09-30 16:58", "latitude": 36.68, "lake_name": "Mossoul", "longitude": 42.9, "identifier": "L_mossoul", "start_date": "1992-10-16 03:21", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 119,
    "id_No": 120,
    "lake_name": "Mweru",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Congo&Zambia", "end_date": "2020-09-27 07:37", "latitude": -8.98, "lake_name": "Mweru", "longitude": 28.74, "identifier": "L_mweru", "start_date": "1992-10-16 12:08"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Congo&Zambia", "end_date": "2020-09-27 07:37", "latitude": -8.98, "lake_name": "Mweru", "longitude": 28.74, "identifier": "L_mweru", "start_date": "1992-10-16 12:08", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 120,
    "id_No": 121,
    "lake_name": "Naivasha",
    "source": "hydroweb",
-   "metadata": {"basin": "GreatRiftValley", "source": "hydroweb", "status": "research", "country": "Kenya", "end_date": "2020-03-28 19:03", "latitude": -0.76, "lake_name": "Naivasha", "longitude": 36.35, "identifier": "L_naivasha", "start_date": "2016-03-03 23:54"}
+   "metadata": {"basin": "GreatRiftValley", "source": "hydroweb", "status": "research", "country": "Kenya", "end_date": "2020-03-28 19:03", "latitude": -0.76, "lake_name": "Naivasha", "longitude": 36.35, "identifier": "L_naivasha", "start_date": "2016-03-03 23:54", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 121,
    "id_No": 122,
    "lake_name": "Namco",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-25 15:37", "latitude": 30.71, "lake_name": "Namco", "longitude": 90.62, "identifier": "L_namco", "start_date": "1995-06-05 03:00"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-25 15:37", "latitude": 30.71, "lake_name": "Namco", "longitude": 90.62, "identifier": "L_namco", "start_date": "1995-06-05 03:00", "type": "dam", "quality": "low"}
  },
  {
    "FIELD1": 122,
    "id_No": 123,
    "lake_name": "Nasser",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Egypt", "end_date": "2020-10-05 19:38", "latitude": 22.8, "lake_name": "Nasser", "longitude": 32.57, "identifier": "L_nasser", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Egypt", "end_date": "2020-10-05 19:38", "latitude": 22.8, "lake_name": "Nasser", "longitude": 32.57, "identifier": "L_nasser", "start_date": "1992-09-27 02:35", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 123,
    "id_No": 124,
    "lake_name": "Nettiling",
    "source": "hydroweb",
-   "metadata": {"basin": "HudsonBay", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2011-11-15 00:14", "latitude": 66.53, "lake_name": "Nettiling", "longitude": -70.17, "identifier": "L_nettiling", "start_date": "1992-09-26 02:35"}
+   "metadata": {"basin": "HudsonBay", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2011-11-15 00:14", "latitude": 66.53, "lake_name": "Nettiling", "longitude": -70.17, "identifier": "L_nettiling", "start_date": "1992-09-26 02:35", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 124,
    "id_No": 125,
    "lake_name": "Nezahualcoyoti",
    "source": "hydroweb",
-   "metadata": {"basin": "Grisalva", "source": "hydroweb", "status": "operational", "country": "Mexico", "end_date": "2020-09-13 16:25", "latitude": 17.16, "lake_name": "Nezahualcoyoti", "longitude": -93.65, "identifier": "L_nezahualcoyoti", "start_date": "1995-05-29 16:23"}
+   "metadata": {"basin": "Grisalva", "source": "hydroweb", "status": "operational", "country": "Mexico", "end_date": "2020-09-13 16:25", "latitude": 17.16, "lake_name": "Nezahualcoyoti", "longitude": -93.65, "identifier": "L_nezahualcoyoti", "start_date": "1995-05-29 16:23", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 125,
    "id_No": 126,
    "lake_name": "Ngangla-ringco",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-03-31 18:42", "latitude": 31.56, "lake_name": "Ngangla-ringco", "longitude": 83.05, "identifier": "L_ngangla-ringco", "start_date": "2002-10-19 15:14"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-03-31 18:42", "latitude": 31.56, "lake_name": "Ngangla-ringco", "longitude": 83.05, "identifier": "L_ngangla-ringco", "start_date": "2002-10-19 15:14", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 126,
    "id_No": 127,
    "lake_name": "Ngangze",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-02 04:01", "latitude": 31.0, "lake_name": "Ngangze", "longitude": 87.1, "identifier": "L_ngangze", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-02 04:01", "latitude": 31.0, "lake_name": "Ngangze", "longitude": 87.1, "identifier": "L_ngangze", "start_date": "1992-09-27 02:35", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 127,
    "id_No": 128,
    "lake_name": "Ngoring-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Yellow", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-04 15:04", "latitude": 34.9, "lake_name": "Ngoring-co", "longitude": 97.7, "identifier": "L_ngoring-co", "start_date": "1992-10-12 11:31"}
+   "metadata": {"basin": "Yellow", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-04 15:04", "latitude": 34.9, "lake_name": "Ngoring-co", "longitude": 97.7, "identifier": "L_ngoring-co", "start_date": "1992-10-12 11:31", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 128,
    "id_No": 129,
    "lake_name": "Nicaragua",
    "source": "hydroweb",
-   "metadata": {"basin": "San Juan", "source": "hydroweb", "status": "operational", "country": "Nicaragua", "end_date": "2020-09-28 15:35", "latitude": 11.5, "lake_name": "Nicaragua", "longitude": -85.5, "identifier": "L_nicaragua", "start_date": "1992-10-12 11:31"}
+   "metadata": {"basin": "San Juan", "source": "hydroweb", "status": "operational", "country": "Nicaragua", "end_date": "2020-09-28 15:35", "latitude": 11.5, "lake_name": "Nicaragua", "longitude": -85.5, "identifier": "L_nicaragua", "start_date": "1992-10-12 11:31", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 129,
    "id_No": 130,
    "lake_name": "Novosibirskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Ob", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-09-30 13:06", "latitude": 54.58, "lake_name": "Novosibirskoye", "longitude": 82.48, "identifier": "L_novosibirskoye", "start_date": "1992-10-19 19:12"}
+   "metadata": {"basin": "Ob", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-09-30 13:06", "latitude": 54.58, "lake_name": "Novosibirskoye", "longitude": 82.48, "identifier": "L_novosibirskoye", "start_date": "1992-10-19 19:12", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 130,
    "id_No": 131,
    "lake_name": "Nueltin",
    "source": "hydroweb",
-   "metadata": {"basin": "Thlewiaza", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-01 18:51", "latitude": 60.4, "lake_name": "Nueltin", "longitude": -99.58, "identifier": "L_nueltin", "start_date": "1992-10-23 11:02"}
+   "metadata": {"basin": "Thlewiaza", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-01 18:51", "latitude": 60.4, "lake_name": "Nueltin", "longitude": -99.58, "identifier": "L_nueltin", "start_date": "1992-10-23 11:02", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 131,
    "id_No": 132,
    "lake_name": "Nyuk",
    "source": "hydroweb",
-   "metadata": {"basin": "Kem", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-02-28 09:53", "latitude": 64.45, "lake_name": "Nyuk", "longitude": 31.9, "identifier": "L_nyuk", "start_date": "2008-07-11 00:36"}
+   "metadata": {"basin": "Kem", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-02-28 09:53", "latitude": 64.45, "lake_name": "Nyuk", "longitude": 31.9, "identifier": "L_nyuk", "start_date": "2008-07-11 00:36", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 132,
    "id_No": 133,
    "lake_name": "Oahe",
    "source": "hydroweb",
-   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2020-03-31 18:42", "latitude": 45.02, "lake_name": "Oahe", "longitude": -100.34, "identifier": "L_oahe", "start_date": "1995-05-29 16:23"}
+   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2020-03-31 18:42", "latitude": 45.02, "lake_name": "Oahe", "longitude": -100.34, "identifier": "L_oahe", "start_date": "1995-05-29 16:23", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 133,
    "id_No": 134,
    "lake_name": "Okanagan",
    "source": "hydroweb",
-   "metadata": {"basin": "Columbia", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2019-10-18 17:25", "latitude": 49.85, "lake_name": "Okanagan", "longitude": -119.5, "identifier": "L_okanagan", "start_date": "2008-02-18 12:08"}
+   "metadata": {"basin": "Columbia", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2019-10-18 17:25", "latitude": 49.85, "lake_name": "Okanagan", "longitude": -119.5, "identifier": "L_okanagan", "start_date": "2008-02-18 12:08", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 134,
    "id_No": 135,
    "lake_name": "Old-wives",
    "source": "hydroweb",
-   "metadata": {"basin": "old-wives", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2020-03-21 19:10", "latitude": 50.09, "lake_name": "Old-wives", "longitude": -105.96, "identifier": "L_old-wives", "start_date": "2016-03-24 00:17"}
+   "metadata": {"basin": "old-wives", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2020-03-21 19:10", "latitude": 50.09, "lake_name": "Old-wives", "longitude": -105.96, "identifier": "L_old-wives", "start_date": "2016-03-24 00:17", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 135,
    "id_No": 136,
    "lake_name": "Onega",
    "source": "hydroweb",
-   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-04 18:34", "latitude": 61.6, "lake_name": "Onega", "longitude": 35.6, "identifier": "L_onega", "start_date": "1992-10-15 09:47"}
+   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-04 18:34", "latitude": 61.6, "lake_name": "Onega", "longitude": 35.6, "identifier": "L_onega", "start_date": "1992-10-15 09:47", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 136,
    "id_No": 137,
    "lake_name": "Ontario",
    "source": "hydroweb",
-   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-02 02:31", "latitude": 43.7, "lake_name": "Ontario", "longitude": -78.03, "identifier": "L_ontario", "start_date": "1992-10-14 16:13"}
+   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-02 02:31", "latitude": 43.7, "lake_name": "Ontario", "longitude": -78.03, "identifier": "L_ontario", "start_date": "1992-10-14 16:13", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 137,
    "id_No": 138,
    "lake_name": "Opinac",
    "source": "hydroweb",
-   "metadata": {"basin": "Opinaca", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-30 16:33", "latitude": 52.5, "lake_name": "Opinac", "longitude": -76.3, "identifier": "L_opinac", "start_date": "1992-10-11 09:10"}
+   "metadata": {"basin": "Opinaca", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-30 16:33", "latitude": 52.5, "lake_name": "Opinac", "longitude": -76.3, "identifier": "L_opinac", "start_date": "1992-10-11 09:10", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 138,
    "id_No": 139,
    "lake_name": "Oulu",
    "source": "hydroweb",
-   "metadata": {"basin": "Oulujoki", "source": "hydroweb", "status": "research", "country": "Finland", "end_date": "2020-04-10 05:24", "latitude": 64.4, "lake_name": "Oulu", "longitude": 27.0, "identifier": "L_oulu", "start_date": "2008-07-13 00:50"}
+   "metadata": {"basin": "Oulujoki", "source": "hydroweb", "status": "research", "country": "Finland", "end_date": "2020-04-10 05:24", "latitude": 64.4, "lake_name": "Oulu", "longitude": 27.0, "identifier": "L_oulu", "start_date": "2008-07-13 00:50", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 139,
    "id_No": 140,
    "lake_name": "Peipus",
    "source": "hydroweb",
-   "metadata": {"basin": "Narva", "source": "hydroweb", "status": "operational", "country": "Russia&Estonia", "end_date": "2020-09-29 10:37", "latitude": 58.44, "lake_name": "Peipus", "longitude": 27.5, "identifier": "L_peipus", "start_date": "1992-10-20 12:46"}
+   "metadata": {"basin": "Narva", "source": "hydroweb", "status": "operational", "country": "Russia&Estonia", "end_date": "2020-09-29 10:37", "latitude": 58.44, "lake_name": "Peipus", "longitude": 27.5, "identifier": "L_peipus", "start_date": "1992-10-20 12:46", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 140,
    "id_No": 141,
    "lake_name": "Poopo",
    "source": "hydroweb",
-   "metadata": {"basin": "Desaguadero", "source": "hydroweb", "status": "research", "country": "Boliva", "end_date": "2016-01-19 07:37", "latitude": -18.8, "lake_name": "Poopo", "longitude": -67.0, "identifier": "L_poopo", "start_date": "2000-02-17 13:57"}
+   "metadata": {"basin": "Desaguadero", "source": "hydroweb", "status": "research", "country": "Boliva", "end_date": "2016-01-19 07:37", "latitude": -18.8, "lake_name": "Poopo", "longitude": -67.0, "identifier": "L_poopo", "start_date": "2000-02-17 13:57", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 141,
    "id_No": 142,
    "lake_name": "Poyang",
    "source": "hydroweb",
-   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-03-25 19:25", "latitude": 29.08, "lake_name": "Poyang", "longitude": 116.28, "identifier": "L_poyang", "start_date": "1995-06-21 01:10"}
+   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-03-25 19:25", "latitude": 29.08, "lake_name": "Poyang", "longitude": 116.28, "identifier": "L_poyang", "start_date": "1995-06-21 01:10", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 142,
    "id_No": 143,
    "lake_name": "Pung-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-14 18:14", "latitude": 31.45, "lake_name": "Pung-co", "longitude": 90.96, "identifier": "L_pung-co", "start_date": "1995-06-05 03:00"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-14 18:14", "latitude": 31.45, "lake_name": "Pung-co", "longitude": 90.96, "identifier": "L_pung-co", "start_date": "1995-06-05 03:00", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 143,
    "id_No": 144,
    "lake_name": "Qadisiyah",
    "source": "hydroweb",
-   "metadata": {"basin": "tigris-euphrates", "source": "hydroweb", "status": "research", "country": "Iraq", "end_date": "2020-03-31 18:42", "latitude": 34.31, "lake_name": "Qadisiyah", "longitude": 42.3, "identifier": "L_qadisiyah", "start_date": "1995-07-26 11:16"}
+   "metadata": {"basin": "tigris-euphrates", "source": "hydroweb", "status": "research", "country": "Iraq", "end_date": "2020-03-31 18:42", "latitude": 34.31, "lake_name": "Qadisiyah", "longitude": 42.3, "identifier": "L_qadisiyah", "start_date": "1995-07-26 11:16", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 144,
    "id_No": 145,
    "lake_name": "Razazah",
    "source": "hydroweb",
-   "metadata": {"basin": "tigris-euphrates", "source": "hydroweb", "status": "research", "country": "Iraq", "end_date": "2016-03-16 23:55", "latitude": 32.75, "lake_name": "Razazah", "longitude": 43.59, "identifier": "L_razazah", "start_date": "1994-12-16 17:20"}
+   "metadata": {"basin": "tigris-euphrates", "source": "hydroweb", "status": "research", "country": "Iraq", "end_date": "2016-03-16 23:55", "latitude": 32.75, "lake_name": "Razazah", "longitude": 43.59, "identifier": "L_razazah", "start_date": "1994-12-16 17:20", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 145,
    "id_No": 146,
    "lake_name": "Roseires",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "research", "country": "Sudan", "end_date": "2015-02-03 19:37", "latitude": 11.62, "lake_name": "Roseires", "longitude": 34.38, "identifier": "L_roseires", "start_date": "2002-10-23 15:35"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "research", "country": "Sudan", "end_date": "2015-02-03 19:37", "latitude": 11.62, "lake_name": "Roseires", "longitude": 34.38, "identifier": "L_roseires", "start_date": "2002-10-23 15:35", "type": "dam", "quality": "medium"}
  },
  {
    "FIELD1": 146,
    "id_No": 147,
    "lake_name": "Rukwa",
    "source": "hydroweb",
-   "metadata": {"basin": "Rukwa", "source": "hydroweb", "status": "operational", "country": "Tanzania", "end_date": "2020-10-04 19:55", "latitude": -8.0, "lake_name": "Rukwa", "longitude": 32.42, "identifier": "L_rukwa", "start_date": "1992-10-21 15:07"}
+   "metadata": {"basin": "Rukwa", "source": "hydroweb", "status": "operational", "country": "Tanzania", "end_date": "2020-10-04 19:55", "latitude": -8.0, "lake_name": "Rukwa", "longitude": 32.42, "identifier": "L_rukwa", "start_date": "1992-10-21 15:07", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 147,
    "id_No": 148,
    "lake_name": "Rybinskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-01 15:18", "latitude": 58.44, "lake_name": "Rybinskoye", "longitude": 38.42, "identifier": "L_rybinskoye", "start_date": "1992-09-26 00:14"}
+   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-01 15:18", "latitude": 58.44, "lake_name": "Rybinskoye", "longitude": 38.42, "identifier": "L_rybinskoye", "start_date": "1992-09-26 00:14", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 148,
    "id_No": 149,
    "lake_name": "Saint_jean",
    "source": "hydroweb",
-   "metadata": {"basin": "Saguenay", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-30 00:02", "latitude": 48.56, "lake_name": "Saint_jean", "longitude": -72.0, "identifier": "L_saint_jean", "start_date": "1992-10-09 13:14"}
+   "metadata": {"basin": "Saguenay", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-09-30 00:02", "latitude": 48.56, "lake_name": "Saint_jean", "longitude": -72.0, "identifier": "L_saint_jean", "start_date": "1992-10-09 13:14", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 149,
    "id_No": 150,
    "lake_name": "Sakakawea",
    "source": "hydroweb",
-   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-09-29 18:02", "latitude": 47.6, "lake_name": "Sakakawea", "longitude": -102.0, "identifier": "L_sakakawea", "start_date": "1992-10-17 14:29"}
+   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-09-29 18:02", "latitude": 47.6, "lake_name": "Sakakawea", "longitude": -102.0, "identifier": "L_sakakawea", "start_date": "1992-10-17 14:29", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 150,
    "id_No": 151,
    "lake_name": "Saksak",
    "source": "hydroweb",
-   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "operational", "country": "Turkey", "end_date": "2020-09-27 17:45", "latitude": 38.48, "lake_name": "Saksak", "longitude": 38.47, "identifier": "L_saksak", "start_date": "1992-12-02 17:16"}
+   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "operational", "country": "Turkey", "end_date": "2020-09-27 17:45", "latitude": 38.48, "lake_name": "Saksak", "longitude": 38.47, "identifier": "L_saksak", "start_date": "1992-12-02 17:16", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 151,
    "id_No": 152,
    "lake_name": "Salton",
    "source": "hydroweb",
-   "metadata": {"basin": "USA Internal Bassin", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2019-10-06 17:45", "latitude": 33.3, "lake_name": "Salton", "longitude": -115.8, "identifier": "L_salton", "start_date": "2008-07-31 01:00"}
+   "metadata": {"basin": "USA Internal Bassin", "source": "hydroweb", "status": "research", "country": "USA", "end_date": "2019-10-06 17:45", "latitude": 33.3, "lake_name": "Salton", "longitude": -115.8, "identifier": "L_salton", "start_date": "2008-07-31 01:00", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 152,
    "id_No": 153,
    "lake_name": "Sandy",
    "source": "hydroweb",
-   "metadata": {"basin": "Severn", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2020-03-19 19:03", "latitude": 53.0, "lake_name": "Sandy", "longitude": -93.0, "identifier": "L_sandy", "start_date": "2016-03-23 00:40"}
+   "metadata": {"basin": "Severn", "source": "hydroweb", "status": "research", "country": "Canada", "end_date": "2020-03-19 19:03", "latitude": 53.0, "lake_name": "Sandy", "longitude": -93.0, "identifier": "L_sandy", "start_date": "2016-03-23 00:40", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 153,
    "id_No": 154,
    "lake_name": "San_martin",
    "source": "hydroweb",
-   "metadata": {"basin": "Mayer", "source": "hydroweb", "status": "operational", "country": "Argentina&Chile", "end_date": "2020-10-05 03:29", "latitude": -48.86, "lake_name": "San_martin", "longitude": -72.65, "identifier": "L_san_martin", "start_date": "2016-03-18 00:35"}
+   "metadata": {"basin": "Mayer", "source": "hydroweb", "status": "operational", "country": "Argentina&Chile", "end_date": "2020-10-05 03:29", "latitude": -48.86, "lake_name": "San_martin", "longitude": -72.65, "identifier": "L_san_martin", "start_date": "2016-03-18 00:35", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 154,
    "id_No": 155,
    "lake_name": "Saratovskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-02 07:54", "latitude": 52.45, "lake_name": "Saratovskoye", "longitude": 48.15, "identifier": "L_saratovskoye", "start_date": "1992-10-16 03:21"}
+   "metadata": {"basin": "Volga", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-02 07:54", "latitude": 52.45, "lake_name": "Saratovskoye", "longitude": 48.15, "identifier": "L_saratovskoye", "start_date": "1992-10-16 03:21", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 155,
    "id_No": 156,
    "lake_name": "Sarykamish",
    "source": "hydroweb",
-   "metadata": {"basin": "Amudarya", "source": "hydroweb", "status": "operational", "country": "Turkmenistan&Uzbekistan", "end_date": "2020-10-03 06:19", "latitude": 41.9, "lake_name": "Sarykamish", "longitude": 57.4, "identifier": "L_sarykamish", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "Amudarya", "source": "hydroweb", "status": "operational", "country": "Turkmenistan&Uzbekistan", "end_date": "2020-10-03 06:19", "latitude": 41.9, "lake_name": "Sarykamish", "longitude": 57.4, "identifier": "L_sarykamish", "start_date": "1992-09-28 04:56", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 156,
    "id_No": 157,
    "lake_name": "Sasykkol",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Kazakstan", "end_date": "2020-09-24 06:52", "latitude": 46.58, "lake_name": "Sasykkol", "longitude": 81.0, "identifier": "L_sasykkol", "start_date": "2008-07-31 06:43"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "Kazakstan", "end_date": "2020-09-24 06:52", "latitude": 46.58, "lake_name": "Sasykkol", "longitude": 81.0, "identifier": "L_sasykkol", "start_date": "2008-07-31 06:43", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 157,
    "id_No": 158,
    "lake_name": "Saysan",
    "source": "hydroweb",
-   "metadata": {"basin": "Ob", "source": "hydroweb", "status": "research", "country": "Kazakstan", "end_date": "2020-03-31 18:42", "latitude": 48.0, "lake_name": "Saysan", "longitude": 83.93, "identifier": "L_saysan", "start_date": "2000-01-22 23:02"}
+   "metadata": {"basin": "Ob", "source": "hydroweb", "status": "research", "country": "Kazakstan", "end_date": "2020-03-31 18:42", "latitude": 48.0, "lake_name": "Saysan", "longitude": 83.93, "identifier": "L_saysan", "start_date": "2000-01-22 23:02", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 158,
    "id_No": 159,
    "lake_name": "Segozerskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Nyzhny Vyg", "source": "hydroweb", "status": "operational", "country": "russia", "end_date": "2020-10-04 18:35", "latitude": 63.3, "lake_name": "Segozerskoye", "longitude": 33.6, "identifier": "L_segozerskoye", "start_date": "2008-07-15 01:03"}
+   "metadata": {"basin": "Nyzhny Vyg", "source": "hydroweb", "status": "operational", "country": "russia", "end_date": "2020-10-04 18:35", "latitude": 63.3, "lake_name": "Segozerskoye", "longitude": 33.6, "identifier": "L_segozerskoye", "start_date": "2008-07-15 01:03", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 159,
    "id_No": 160,
    "lake_name": "Sevan",
    "source": "hydroweb",
-   "metadata": {"basin": "ozero sevan", "source": "hydroweb", "status": "research", "country": "Armenia", "end_date": "2020-04-04 06:07", "latitude": 40.28, "lake_name": "Sevan", "longitude": 45.4, "identifier": "L_sevan", "start_date": "1995-06-18 01:32"}
+   "metadata": {"basin": "ozero sevan", "source": "hydroweb", "status": "research", "country": "Armenia", "end_date": "2020-04-04 06:07", "latitude": 40.28, "lake_name": "Sevan", "longitude": 45.4, "identifier": "L_sevan", "start_date": "1995-06-18 01:32", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 160,
    "id_No": 161,
    "lake_name": "Sobradino",
    "source": "hydroweb",
-   "metadata": {"basin": "Sao-Francisco", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2015-02-13 18:05", "latitude": -9.73, "lake_name": "Sobradino", "longitude": -41.67, "identifier": "L_sobradino", "start_date": "2002-10-09 01:11"}
+   "metadata": {"basin": "Sao-Francisco", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2015-02-13 18:05", "latitude": -9.73, "lake_name": "Sobradino", "longitude": -41.67, "identifier": "L_sobradino", "start_date": "2002-10-09 01:11", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 161,
    "id_No": 162,
    "lake_name": "Soungari",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "chine", "end_date": "2020-10-05 01:26", "latitude": 43.6, "lake_name": "Soungari", "longitude": 126.93, "identifier": "L_soungari", "start_date": "1992-10-19 19:12"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "chine", "end_date": "2020-10-05 01:26", "latitude": 43.6, "lake_name": "Soungari", "longitude": 126.93, "identifier": "L_soungari", "start_date": "1992-10-19 19:12", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 162,
    "id_No": 163,
    "lake_name": "Sterkfontein",
    "source": "hydroweb",
-   "metadata": {"basin": "Orange", "source": "hydroweb", "status": "research", "country": "South Africa", "end_date": "2019-12-04 13:17", "latitude": -28.45, "lake_name": "Sterkfontein", "longitude": 29.02, "identifier": "L_sterkfontein", "start_date": "2008-07-21 00:46"}
+   "metadata": {"basin": "Orange", "source": "hydroweb", "status": "research", "country": "South Africa", "end_date": "2019-12-04 13:17", "latitude": -28.45, "lake_name": "Sterkfontein", "longitude": 29.02, "identifier": "L_sterkfontein", "start_date": "2008-07-21 00:46", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 163,
    "id_No": 164,
    "lake_name": "Superior",
    "source": "hydroweb",
-   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-06 16:20", "latitude": 47.5, "lake_name": "Superior", "longitude": -87.5, "identifier": "L_superior", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "St-Lawrence", "source": "hydroweb", "status": "operational", "country": "USA&Canada", "end_date": "2020-10-06 16:20", "latitude": 47.5, "lake_name": "Superior", "longitude": -87.5, "identifier": "L_superior", "start_date": "1992-09-27 02:35", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 164,
    "id_No": 165,
    "lake_name": "Taihu",
    "source": "hydroweb",
-   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-04-11 06:00", "latitude": 31.21, "lake_name": "Taihu", "longitude": 120.16, "identifier": "L_taihu", "start_date": "2013-04-08 06:21"}
+   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2020-04-11 06:00", "latitude": 31.21, "lake_name": "Taihu", "longitude": 120.16, "identifier": "L_taihu", "start_date": "2013-04-08 06:21", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 165,
    "id_No": 166,
    "lake_name": "Tana",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Ethiopia", "end_date": "2020-10-02 17:50", "latitude": 12.03, "lake_name": "Tana", "longitude": 37.3, "identifier": "L_tana", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Ethiopia", "end_date": "2020-10-02 17:50", "latitude": 12.03, "lake_name": "Tana", "longitude": 37.3, "identifier": "L_tana", "start_date": "1992-09-27 02:35", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 166,
    "id_No": 167,
    "lake_name": "Tanganika",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Tanzania&Zaire&Zambia&Burundi", "end_date": "2020-09-29 07:52", "latitude": -6.08, "lake_name": "Tanganika", "longitude": 29.5, "identifier": "L_tanganika", "start_date": "1992-10-17 14:29"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Tanzania&Zaire&Zambia&Burundi", "end_date": "2020-09-29 07:52", "latitude": -6.08, "lake_name": "Tanganika", "longitude": 29.5, "identifier": "L_tanganika", "start_date": "1992-10-17 14:29", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 167,
    "id_No": 168,
    "lake_name": "Tangra-yumco",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-06 15:52", "latitude": 31.0, "lake_name": "Tangra-yumco", "longitude": 86.55, "identifier": "L_tangra-yumco", "start_date": "1995-06-13 21:14"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-06 15:52", "latitude": 31.0, "lake_name": "Tangra-yumco", "longitude": 86.55, "identifier": "L_tangra-yumco", "start_date": "1995-06-13 21:14", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 168,
    "id_No": 169,
    "lake_name": "Taro-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2016-05-16 01:02", "latitude": 31.12, "lake_name": "Taro-co", "longitude": 84.12, "identifier": "L_taro-co", "start_date": "2003-11-01 01:04"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2016-05-16 01:02", "latitude": 31.12, "lake_name": "Taro-co", "longitude": 84.12, "identifier": "L_taro-co", "start_date": "2003-11-01 01:04", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 169,
    "id_No": 170,
    "lake_name": "Tchad",
    "source": "hydroweb",
-   "metadata": {"basin": "Lake-Chad", "source": "hydroweb", "status": "operational", "country": "Tchad&Cameroon&Niger&Nigeria", "end_date": "2020-10-02 20:54", "latitude": 13.33, "lake_name": "Tchad", "longitude": 14.17, "identifier": "L_tchad", "start_date": "1992-10-11 09:10"}
+   "metadata": {"basin": "Lake-Chad", "source": "hydroweb", "status": "operational", "country": "Tchad&Cameroon&Niger&Nigeria", "end_date": "2020-10-02 20:54", "latitude": 13.33, "lake_name": "Tchad", "longitude": 14.17, "identifier": "L_tchad", "start_date": "1992-10-11 09:10", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 170,
    "id_No": 171,
    "lake_name": "Tchany",
    "source": "hydroweb",
-   "metadata": {"basin": "Tchany", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-09-29 06:50", "latitude": 54.85, "lake_name": "Tchany", "longitude": 77.6, "identifier": "L_tchany", "start_date": "1992-10-08 19:40"}
+   "metadata": {"basin": "Tchany", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-09-29 06:50", "latitude": 54.85, "lake_name": "Tchany", "longitude": 77.6, "identifier": "L_tchany", "start_date": "1992-10-08 19:40", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 171,
    "id_No": 172,
    "lake_name": "Tharthar",
    "source": "hydroweb",
-   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "operational", "country": "Iraq", "end_date": "2020-10-04 06:38", "latitude": 33.9, "lake_name": "Tharthar", "longitude": 43.29, "identifier": "L_tharthar", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "Tigris-Euphrates", "source": "hydroweb", "status": "operational", "country": "Iraq", "end_date": "2020-10-04 06:38", "latitude": 33.9, "lake_name": "Tharthar", "longitude": 43.29, "identifier": "L_tharthar", "start_date": "1992-09-28 22:30", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 172,
    "id_No": 173,
    "lake_name": "Titicaca",
    "source": "hydroweb",
-   "metadata": {"basin": "desaguadero", "source": "hydroweb", "status": "research", "country": "Bolivia&Peru", "end_date": "2020-03-27 19:32", "latitude": -15.62, "lake_name": "Titicaca", "longitude": -69.57, "identifier": "L_titicaca", "start_date": "1995-05-31 15:25"}
+   "metadata": {"basin": "desaguadero", "source": "hydroweb", "status": "research", "country": "Bolivia&Peru", "end_date": "2020-03-27 19:32", "latitude": -15.62, "lake_name": "Titicaca", "longitude": -69.57, "identifier": "L_titicaca", "start_date": "1995-05-31 15:25", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 173,
    "id_No": 174,
    "lake_name": "Todos_los_santos",
    "source": "hydroweb",
-   "metadata": {"basin": "Chilesouth", "source": "hydroweb", "status": "operational", "country": "Chile", "end_date": "2020-10-02 03:09", "latitude": -41.1, "lake_name": "Todos_los_santos", "longitude": -72.3, "identifier": "L_todos_los_santos", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Chilesouth", "source": "hydroweb", "status": "operational", "country": "Chile", "end_date": "2020-10-02 03:09", "latitude": -41.1, "lake_name": "Todos_los_santos", "longitude": -72.3, "identifier": "L_todos_los_santos", "start_date": "1992-09-27 02:35", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 174,
    "id_No": 175,
    "lake_name": "Toktogul",
    "source": "hydroweb",
-   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kyrgyzstan", "end_date": "2020-03-26 18:56", "latitude": 41.78, "lake_name": "Toktogul", "longitude": 72.83, "identifier": "L_toktogul", "start_date": "1995-06-22 01:46"}
+   "metadata": {"basin": "Aral-Drainage", "source": "hydroweb", "status": "research", "country": "Kyrgyzstan", "end_date": "2020-03-26 18:56", "latitude": 41.78, "lake_name": "Toktogul", "longitude": 72.83, "identifier": "L_toktogul", "start_date": "1995-06-22 01:46", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 175,
    "id_No": 176,
    "lake_name": "Tres_marias",
    "source": "hydroweb",
-   "metadata": {"basin": "Sao-Francisco", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2014-09-07 08:00", "latitude": -18.62, "lake_name": "Tres_marias", "longitude": -45.24, "identifier": "L_tres_marias", "start_date": "2002-10-20 00:00"}
+   "metadata": {"basin": "Sao-Francisco", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2014-09-07 08:00", "latitude": -18.62, "lake_name": "Tres_marias", "longitude": -45.24, "identifier": "L_tres_marias", "start_date": "2002-10-20 00:00", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 176,
    "id_No": 177,
    "lake_name": "Tsimlyanskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Don", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-04 18:30", "latitude": 48.03, "lake_name": "Tsimlyanskoye", "longitude": 42.94, "identifier": "L_tsimlyanskoye", "start_date": "1992-09-27 02:35"}
+   "metadata": {"basin": "Don", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-04 18:30", "latitude": 48.03, "lake_name": "Tsimlyanskoye", "longitude": 42.94, "identifier": "L_tsimlyanskoye", "start_date": "1992-09-27 02:35", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 177,
    "id_No": 178,
    "lake_name": "Tucurui",
    "source": "hydroweb",
-   "metadata": {"basin": "Tocantins", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2014-11-06 07:19", "latitude": -4.39, "lake_name": "Tucurui", "longitude": -49.52, "identifier": "L_tucurui", "start_date": "2002-10-16 08:24"}
+   "metadata": {"basin": "Tocantins", "source": "hydroweb", "status": "research", "country": "Brazil", "end_date": "2014-11-06 07:19", "latitude": -4.39, "lake_name": "Tucurui", "longitude": -49.52, "identifier": "L_tucurui", "start_date": "2002-10-16 08:24", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 178,
    "id_No": 179,
    "lake_name": "Turkana",
    "source": "hydroweb",
-   "metadata": {"basin": "Lake Turkana", "source": "hydroweb", "status": "operational", "country": "Ethiopia&Kenya", "end_date": "2020-10-05 19:32", "latitude": 3.5, "lake_name": "Turkana", "longitude": 36.28, "identifier": "L_turkana", "start_date": "1992-10-10 15:35"}
+   "metadata": {"basin": "Lake Turkana", "source": "hydroweb", "status": "operational", "country": "Ethiopia&Kenya", "end_date": "2020-10-05 19:32", "latitude": 3.5, "lake_name": "Turkana", "longitude": 36.28, "identifier": "L_turkana", "start_date": "1992-10-10 15:35", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 179,
    "id_No": 180,
    "lake_name": "Udyl",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-19 19:03", "latitude": 52.13, "lake_name": "Udyl", "longitude": 139.84, "identifier": "L_udyl", "start_date": "2013-04-24 05:10"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-19 19:03", "latitude": 52.13, "lake_name": "Udyl", "longitude": 139.84, "identifier": "L_udyl", "start_date": "2013-04-24 05:10", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 180,
    "id_No": 181,
    "lake_name": "Ulan-ul",
    "source": "hydroweb",
-   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-09-12 07:46", "latitude": 34.85, "lake_name": "Ulan-ul", "longitude": 90.4, "identifier": "L_ulan-ul", "start_date": "1995-11-29 03:36"}
+   "metadata": {"basin": "Yangtze", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-09-12 07:46", "latitude": 34.85, "lake_name": "Ulan-ul", "longitude": 90.4, "identifier": "L_ulan-ul", "start_date": "1995-11-29 03:36", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 181,
    "id_No": 182,
    "lake_name": "Ulungur",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-30 05:16", "latitude": 47.26, "lake_name": "Ulungur", "longitude": 87.25, "identifier": "L_ulungur", "start_date": "1992-10-09 13:14"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-30 05:16", "latitude": 47.26, "lake_name": "Ulungur", "longitude": 87.25, "identifier": "L_ulungur", "start_date": "1992-10-09 13:14", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 182,
    "id_No": 183,
    "lake_name": "Urmia",
    "source": "hydroweb",
-   "metadata": {"basin": "daryacheh-ye orumieh", "source": "hydroweb", "status": "research", "country": "Iran", "end_date": "2020-04-11 06:00", "latitude": 37.67, "lake_name": "Urmia", "longitude": 45.5, "identifier": "L_urmia", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "daryacheh-ye orumieh", "source": "hydroweb", "status": "research", "country": "Iran", "end_date": "2020-04-11 06:00", "latitude": 37.67, "lake_name": "Urmia", "longitude": 45.5, "identifier": "L_urmia", "start_date": "1992-09-28 22:30", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 183,
    "id_No": 184,
    "lake_name": "Urru-co",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-20 17:32", "latitude": 31.72, "lake_name": "Urru-co", "longitude": 88.0, "identifier": "L_urru-co", "start_date": "1995-06-10 23:09"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-10-20 17:32", "latitude": 31.72, "lake_name": "Urru-co", "longitude": 88.0, "identifier": "L_urru-co", "start_date": "1995-06-10 23:09", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 184,
    "id_No": 185,
    "lake_name": "Uvs",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "Mongolia", "end_date": "2020-04-03 05:31", "latitude": 50.33, "lake_name": "Uvs", "longitude": 92.82, "identifier": "L_uvs", "start_date": "1995-07-10 11:24"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "Mongolia", "end_date": "2020-04-03 05:31", "latitude": 50.33, "lake_name": "Uvs", "longitude": 92.82, "identifier": "L_uvs", "start_date": "1995-07-10 11:24", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 185,
    "id_No": 186,
    "lake_name": "Vagatozero",
    "source": "hydroweb",
-   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2019-08-08 22:14", "latitude": 61.73, "lake_name": "Vagatozero", "longitude": 32.21, "identifier": "L_vagatozero", "start_date": "2008-07-11 00:36"}
+   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2019-08-08 22:14", "latitude": 61.73, "lake_name": "Vagatozero", "longitude": 32.21, "identifier": "L_vagatozero", "start_date": "2008-07-11 00:36", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 186,
    "id_No": 187,
    "lake_name": "Van",
    "source": "hydroweb",
-   "metadata": {"basin": "van golu", "source": "hydroweb", "status": "research", "country": "Turkey", "end_date": "2020-04-11 06:00", "latitude": 38.65, "lake_name": "Van", "longitude": 42.9, "identifier": "L_van", "start_date": "1995-05-30 15:51"}
+   "metadata": {"basin": "van golu", "source": "hydroweb", "status": "research", "country": "Turkey", "end_date": "2020-04-11 06:00", "latitude": 38.65, "lake_name": "Van", "longitude": 42.9, "identifier": "L_van", "start_date": "1995-05-30 15:51", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 187,
    "id_No": 188,
    "lake_name": "Vanerm",
    "source": "hydroweb",
-   "metadata": {"basin": "Vaenern-Goeta", "source": "hydroweb", "status": "operational", "country": "Sweden", "end_date": "2020-10-01 10:03", "latitude": 58.81, "lake_name": "Vanerm", "longitude": 13.29, "identifier": "L_vanerm", "start_date": "1992-09-28 22:30"}
+   "metadata": {"basin": "Vaenern-Goeta", "source": "hydroweb", "status": "operational", "country": "Sweden", "end_date": "2020-10-01 10:03", "latitude": 58.81, "lake_name": "Vanerm", "longitude": 13.29, "identifier": "L_vanerm", "start_date": "1992-09-28 22:30", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 188,
    "id_No": 189,
    "lake_name": "Verkhnee-kuyto",
    "source": "hydroweb",
-   "metadata": {"basin": "Kem", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-26 18:56", "latitude": 65.0, "lake_name": "Verkhnee-kuyto", "longitude": 30.75, "identifier": "L_verkhnee-kuyto", "start_date": "2008-08-12 13:12"}
+   "metadata": {"basin": "Kem", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-03-26 18:56", "latitude": 65.0, "lake_name": "Verkhnee-kuyto", "longitude": 30.75, "identifier": "L_verkhnee-kuyto", "start_date": "2008-08-12 13:12", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 189,
    "id_No": 190,
    "lake_name": "Victoria",
    "source": "hydroweb",
-   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Tanzania&Uganda&Kenya", "end_date": "2020-10-03 18:15", "latitude": -1.0, "lake_name": "Victoria", "longitude": 33.0, "identifier": "L_victoria", "start_date": "1992-09-28 04:56"}
+   "metadata": {"basin": "Nile", "source": "hydroweb", "status": "operational", "country": "Tanzania&Uganda&Kenya", "end_date": "2020-10-03 18:15", "latitude": -1.0, "lake_name": "Victoria", "longitude": 33.0, "identifier": "L_victoria", "start_date": "1992-09-28 04:56", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 190,
    "id_No": 191,
    "lake_name": "Vidoestern",
    "source": "hydroweb",
-   "metadata": {"basin": "Sweeden", "source": "hydroweb", "status": "research", "country": "Sweeden", "end_date": "2020-04-04 06:07", "latitude": 57.0, "lake_name": "Vidoestern", "longitude": 14.0, "identifier": "L_vidoestern", "start_date": "2016-03-11 00:12"}
+   "metadata": {"basin": "Sweeden", "source": "hydroweb", "status": "research", "country": "Sweeden", "end_date": "2020-04-04 06:07", "latitude": 57.0, "lake_name": "Vidoestern", "longitude": 14.0, "identifier": "L_vidoestern", "start_date": "2016-03-11 00:12", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 191,
    "id_No": 192,
    "lake_name": "Viedma",
    "source": "hydroweb",
-   "metadata": {"basin": "Santa-Cruz", "source": "hydroweb", "status": "operational", "country": "Argentina", "end_date": "2020-10-05 03:29", "latitude": -49.6, "lake_name": "Viedma", "longitude": -72.5, "identifier": "L_viedma", "start_date": "2013-03-19 19:01"}
+   "metadata": {"basin": "Santa-Cruz", "source": "hydroweb", "status": "operational", "country": "Argentina", "end_date": "2020-10-05 03:29", "latitude": -49.6, "lake_name": "Viedma", "longitude": -72.5, "identifier": "L_viedma", "start_date": "2013-03-19 19:01", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 192,
    "id_No": 193,
    "lake_name": "Volta",
    "source": "hydroweb",
-   "metadata": {"basin": "Volta", "source": "hydroweb", "status": "operational", "country": "Ghana", "end_date": "2020-09-30 20:53", "latitude": 7.45, "lake_name": "Volta", "longitude": 0.11, "identifier": "L_volta", "start_date": "1992-10-13 13:52"}
+   "metadata": {"basin": "Volta", "source": "hydroweb", "status": "operational", "country": "Ghana", "end_date": "2020-09-30 20:53", "latitude": 7.45, "lake_name": "Volta", "longitude": 0.11, "identifier": "L_volta", "start_date": "1992-10-13 13:52", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 193,
    "id_No": 194,
    "lake_name": "Vygozero",
    "source": "hydroweb",
-   "metadata": {"basin": "nyzhny vyg", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-02-28 09:53", "latitude": 63.56, "lake_name": "Vygozero", "longitude": 34.81, "identifier": "L_vygozero", "start_date": "2008-07-15 01:03"}
+   "metadata": {"basin": "nyzhny vyg", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2020-02-28 09:53", "latitude": 63.56, "lake_name": "Vygozero", "longitude": 34.81, "identifier": "L_vygozero", "start_date": "2008-07-15 01:03", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 194,
    "id_No": 195,
    "lake_name": "Williston",
    "source": "hydroweb",
-   "metadata": {"basin": "Mackenzie River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-05 01:47", "latitude": 56.01, "lake_name": "Williston", "longitude": -123.97, "identifier": "L_williston", "start_date": "1992-11-12 05:22"}
+   "metadata": {"basin": "Mackenzie River", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-05 01:47", "latitude": 56.01, "lake_name": "Williston", "longitude": -123.97, "identifier": "L_williston", "start_date": "1992-11-12 05:22", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 195,
    "id_No": 196,
    "lake_name": "Winnipeg",
    "source": "hydroweb",
-   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 16:50", "latitude": 52.0, "lake_name": "Winnipeg", "longitude": -98.0, "identifier": "L_winnipeg", "start_date": "1992-10-01 03:12"}
+   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 16:50", "latitude": 52.0, "lake_name": "Winnipeg", "longitude": -98.0, "identifier": "L_winnipeg", "start_date": "1992-10-01 03:12", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 196,
    "id_No": 197,
    "lake_name": "Winnipegosis",
    "source": "hydroweb",
-   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 16:50", "latitude": 52.42, "lake_name": "Winnipegosis", "longitude": -100.0, "identifier": "L_winnipegosis", "start_date": "2002-10-14 21:21"}
+   "metadata": {"basin": "Nelson", "source": "hydroweb", "status": "operational", "country": "Canada", "end_date": "2020-10-06 16:50", "latitude": 52.42, "lake_name": "Winnipegosis", "longitude": -100.0, "identifier": "L_winnipegosis", "start_date": "2002-10-14 21:21", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 197,
    "id_No": 198,
    "lake_name": "Xuelian-hu",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-08-28 15:57", "latitude": 34.09, "lake_name": "Xuelian-hu", "longitude": 90.25, "identifier": "L_xuelian-hu", "start_date": "1995-06-08 01:04"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2014-08-28 15:57", "latitude": 34.09, "lake_name": "Xuelian-hu", "longitude": 90.25, "identifier": "L_xuelian-hu", "start_date": "1995-06-08 01:04", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 198,
    "id_No": 199,
    "  bbbbbbbbbbb            ": "Yanis-yarvi",
    "source": "hydroweb",
-   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2019-08-05 22:35", "latitude": 62.0, "lake_name": "Yanis-yarvi", "longitude": 30.94, "identifier": "L_yanis-yarvi", "start_date": "2008-07-08 00:45"}
+   "metadata": {"basin": "Neva", "source": "hydroweb", "status": "research", "country": "Russia", "end_date": "2019-08-05 22:35", "latitude": 62.0, "lake_name": "Yanis-yarvi", "longitude": 30.94, "identifier": "L_yanis-yarvi", "start_date": "2008-07-08 00:45", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 199,
    "id_No": 200,
    "lake_name": "Yellowstone",
    "source": "hydroweb",
-   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-05 01:51", "latitude": 44.45, "lake_name": "Yellowstone", "longitude": -110.32, "identifier": "L_yellowstone", "start_date": "1992-09-30 00:51"}
+   "metadata": {"basin": "Mississippi", "source": "hydroweb", "status": "operational", "country": "USA", "end_date": "2020-10-05 01:51", "latitude": 44.45, "lake_name": "Yellowstone", "longitude": -110.32, "identifier": "L_yellowstone", "start_date": "1992-09-30 00:51", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 200,
    "id_No": 201,
    "lake_name": "Zeyskoye",
    "source": "hydroweb",
-   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-02 12:40", "latitude": 54.44, "lake_name": "Zeyskoye", "longitude": 127.74, "identifier": "L_zeyskoye", "start_date": "1992-10-11 09:10"}
+   "metadata": {"basin": "Amur", "source": "hydroweb", "status": "operational", "country": "Russia", "end_date": "2020-10-02 12:40", "latitude": 54.44, "lake_name": "Zeyskoye", "longitude": 127.74, "identifier": "L_zeyskoye", "start_date": "1992-10-11 09:10", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 201,
    "id_No": 202,
    "lake_name": "Zhari-namco",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-06 04:38", "latitude": 30.9, "lake_name": "Zhari-namco", "longitude": 85.6, "identifier": "L_zhari-namco", "start_date": "1993-01-14 03:21"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-10-06 04:38", "latitude": 30.9, "lake_name": "Zhari-namco", "longitude": 85.6, "identifier": "L_zhari-namco", "start_date": "1993-01-14 03:21", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 202,
    "id_No": 203,
    "lake_name": "Zige-tangco",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2019-07-12 11:31", "latitude": 32.06, "lake_name": "Zige-tangco", "longitude": 90.85, "identifier": "L_zige-tangco", "start_date": "1994-01-02 02:16"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "research", "country": "China", "end_date": "2019-07-12 11:31", "latitude": 32.06, "lake_name": "Zige-tangco", "longitude": 90.85, "identifier": "L_zige-tangco", "start_date": "1994-01-02 02:16", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 203,
    "id_No": 204,
    "lake_name": "Ziling",
    "source": "hydroweb",
-   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-21 15:41", "latitude": 31.8, "lake_name": "Ziling", "longitude": 89.04, "identifier": "L_ziling", "start_date": "1995-06-27 00:36"}
+   "metadata": {"basin": "Mongolian", "source": "hydroweb", "status": "operational", "country": "China", "end_date": "2020-09-21 15:41", "latitude": 31.8, "lake_name": "Ziling", "longitude": 89.04, "identifier": "L_ziling", "start_date": "1995-06-27 00:36", "type": "rainfall", "quality": "medium"}
  },
  {
    "FIELD1": 204,
    "id_No": 205,
    "lake_name": "Zimbambo",
    "source": "hydroweb",
-   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-09-13 08:07", "latitude": -8.1, "lake_name": "Zimbambo", "longitude": 26.89, "identifier": "L_zimbambo", "start_date": "2016-03-13 00:30"}
+   "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-09-13 08:07", "latitude": -8.1, "lake_name": "Zimbambo", "longitude": 26.89, "identifier": "L_zimbambo", "start_date": "2016-03-13 00:30", "type": "rainfall", "quality": "medium"}
  },
- {
+  {
   "FIELD1": 205,
   "id_No": 206,
   "lake_name": "Avon",
   "source": "hydroweb",
-  "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Australia", "end_date": "2020-09-13 08:07", "latitude": -34.351081, "lake_name": "Avon", "longitude": 150.639754, "identifier": "L_zimbambo", "start_date": "2016-03-13 00:30"}
-}
+  "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Australia", "end_date": "2020-09-13 08:07", "latitude": -34.351081, "lake_name": "Avon", "longitude": 150.639754, "identifier": "L_zimbambo", "start_date": "2016-03-13 00:30", "type": "rainfall", "quality": "high"}
+  }
 ]

@@ -25,46 +25,43 @@ function App() {
     setForce(!force)
   }
 
-  const fetchFromJSON = () => {
-    fetch('water.json'
-    ,{
+  const fetchFromJSON = async () => {
+    console.log("Called Fetch");
+    await fetch('water.json', {
       headers : { 
         'Content-Type': 'application/json',
         'Accept': 'application/json'
       }
+    }).then(response => {
+      console.log(response)
+      response.json().then(data => {
+        // console.log("Processed JSON", data)
+        var mappedData = data.map(source => source.metadata);
+
+        /*for(var i=0; i < data.length; i++) {
+          // console.log(res.data[i].metadata)
+          temparr.push(res.data[i].metadata)
+        }
+        // console.log(temparr[0].country)*/
+        setResult(mappedData);
+        fetchFromAPI(mappedData);
+      })
     })
-    .then(response => response.json().then(data => ({
-      data: data,
-      status: response.status
-    })
-    ))
-    .then(res => {
-      // console.log(res.data[0].metadata)
-      var temparr = []
-      for(var i=0; i < res.data.length; i++) {
-        // console.log(res.data[i].metadata)
-        temparr.push(res.data[i].metadata)
-      }
-      // console.log(temparr[0].country)
-      setResult(temparr);
-    })
-    .then (
-      fetchFromAPI()
-    )
   }
 
-  const fetchFromAPI = () => {
+  const fetchFromAPI = async (mappedData) => {
     const axios = require('axios');
     const params = {
-      // access_key: "4f1ecdefc35d644e62ba5c20ae0ccab4",
-      // access_key: "418de86e51ca8f8c4526c6c54452c717",
       access_key: "77378826c171b536786c6938af54ae60",
       // query: '1600 Pennsylvania Ave NW'
       query: address
     }
 
-    axios.get('http://api.positionstack.com/v1/forward', {params})
+    await axios.get('http://api.positionstack.com/v1/forward', {params})
     .then(response => {
+      console.log(response)
+      var data = response.data.data;
+      console.log(data)
       // for(var i = 0; i < response.data['data'].length ; i++) {
       //   // console.log(response.data.data[i]);
       //   tresult.push(response.data.data[i]);
@@ -74,16 +71,24 @@ function App() {
       // console.log(result);
       // console.log(result[0]['country'])
       var distance = 20000000000;
-      var reserve_name = "t";
-      var reserve_country = "t";
-      for (var i=0; i < response.data.data.length; i++) {
-        var dist_calc = getDistance(response.data.data[i]['latitude'], response.data.data[i]['longitude'], result[0]['latitude'], result[0]['longitude'])
+      var reserve_name = "";
+      var reserve_country = "";
+
+      // console.log(mappedData);
+
+      data.forEach((position, i) => {
+        var dist_calc = getDistance(
+          position['latitude'], position['longitude'],
+          mappedData[0]['latitude'], mappedData[0]['longitude']
+        )
             if (dist_calc < distance) {
                 distance = dist_calc;
-                reserve_name = result[i]['lake_name'];
-                reserve_country = result[i]['country'];
+                reserve_name = mappedData[i]['lake_name'];
+                reserve_country = mappedData[i]['country'];
             }
-      }
+      });
+
+
       // console.log(response.data.data[0]['latitude'])
       // console.log(dist_calc);
       // console.log(reserve_name);
@@ -117,7 +122,7 @@ function App() {
           <span>Search for water sources near your business.</span>
           <form>
             <div className="form-body">
-              <label for="address">Address</label>
+              <label htmlFor="address">Address</label>
               <input type="text" id="address" onChange={handleAddressChange}></input>
             </div>
           </form>

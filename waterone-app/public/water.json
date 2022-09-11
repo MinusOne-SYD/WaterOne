@@ -1433,5 +1433,12 @@
    "lake_name": "Zimbambo",
    "source": "hydroweb",
    "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "RDC", "end_date": "2020-09-13 08:07", "latitude": -8.1, "lake_name": "Zimbambo", "longitude": 26.89, "identifier": "L_zimbambo", "start_date": "2016-03-13 00:30"}
- }
+ },
+ {
+  "FIELD1": 205,
+  "id_No": 206,
+  "lake_name": "Avon",
+  "source": "hydroweb",
+  "metadata": {"basin": "Congo", "source": "hydroweb", "status": "operational", "country": "Australia", "end_date": "2020-09-13 08:07", "latitude": -34.351081, "lake_name": "Avon", "longitude": 150.639754, "identifier": "L_zimbambo", "start_date": "2016-03-13 00:30"}
+}
 ]
